@@ -1,4 +1,4 @@
-<div class="thumb image"><div style="padding-top:13px;"><a href="http://idl.cs.washington.edu/papers/regression-by-eye"><img src="http://idl.cs.washington.edu/static/images/thumbs/regression-by-eye.png" /></div>
+<div class="thumb image"><div style="padding-top:13px;"><a href="http://idl.cs.washington.edu/papers/blackhatvis"><img src="http://idl.cs.washington.edu/static/images/thumbs/blackhatvis.png" /></div>
 </div>
 <div class="ref">
 	<div class="title">
@@ -13,6 +13,8 @@
 	</div>
 </div>
 
+<div class="thumb image"><div style="padding-top:13px;"><a href="http://idl.cs.washington.edu/papers/regression-by-eye"><img src="http://idl.cs.washington.edu/static/images/thumbs/regression-by-eye.png" /></div>
+</div>
 <div class="ref">
 	<div class="title">
 		<a href="http://idl.cs.washington.edu/papers/regression-by-eye">Regression by Eye: Estimating Trends in Bivariate Visualizations</a> &nbsp;
