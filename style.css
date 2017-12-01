@@ -160,10 +160,12 @@ h3{
 }
 
 a:link{
+  color: #e8762c;
   text-decoration: none;
 }
 
 a:visited{
+  color: #ea8442;
   text-decoration: none;
 }
 
