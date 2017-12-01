@@ -10,7 +10,6 @@ include('header.php');
 ?>
 
 <div id="container">
-<p> My office is located in CSE 278, and my office hours are Monday, 2-3PM.</p>
 
 <p></p><h3>Instructional Staff:</h3>
 <a href = "http://www.washington.edu">University of Washington:</a><br><ul>
