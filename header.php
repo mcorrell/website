@@ -5,16 +5,16 @@
 
   <div id="headerText">
     <div>Michael Correll</div>
-    <div>Research Associate</div>
-    <div>University of Washington</div>
-    <div>Interactive Data Lab</div>
+    <div>Research Scientist</div>
+    <div>Tableau Software</div>
+    <div>Tableau Research</div>
   </div>
   <div id="logo">
-    <a href="http://idl.cs.washington.edu"><img title="UW IDL" src="images/logo.png" height="100px" /></a>
+    <a href="https://research.tableau.com/"><img title="Tableau" src="images/tlogo.png" height="100px" /></a>
   </div>
 </div>
 
-<?php 
+<?php
  $url = $_SERVER['REQUEST_URI'];
  $page = basename($url,".php");
 ?>

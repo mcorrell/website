@@ -1,8 +1,8 @@
 <html>
 <head>
-<meta name="keywords" content="Michael Correll, visualization, madison, information visualization" />
+<meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, information visualization" />
 <title>Michael Correll</title>
-<link href="style.css" rel="stylesheet" type="text/css" media="screen" /> 
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
 <?php
@@ -14,7 +14,7 @@ include('header.php');
 	</p>
 	<?php
                 //Personal stash of papers
-                $papers = file_get_contents('./publications.txt');		
+                $papers = file_get_contents('./publications.txt');
 
                 //University of Wisconsin Basilic Results
                 $ch = curl_init();
@@ -23,8 +23,8 @@ include('header.php');
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER,1);
 		$data = curl_exec($ch);
 		curl_close($ch);
-                
-                //Inject personal papers after beginning of Basilic list 
+
+                //Inject personal papers after beginning of Basilic list
                 $results = strrpos($data,`<div class="results list">`)+26;
                 $data = substr_replace($data, $papers, $results, 0);
                 $data = preg_replace("/padding-top:(\d*)px(;?)/","",$data);

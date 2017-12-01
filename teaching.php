@@ -1,8 +1,8 @@
 <html>
 <head>
-<meta name="keywords" content="Michael Correll, visualization, madison, information visualization" />
+<meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, information visualization" />
 <title>Michael Correll</title>
-<link href="style.css" rel="stylesheet" type="text/css" media="screen" /> 
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
 <?php

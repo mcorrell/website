@@ -2,14 +2,27 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://idl.cs.washington.edu/papers/regression-by-eye">Regression by Eye: Estimating Trends in Bivariate Visualizations</a> &nbsp; 
+		<a href="http://idl.cs.washington.edu/papers/blackhatvis">Black Hat Visualization</a> &nbsp;
+   <a href="http://idl.cs.washington.edu/files/2017-BlackHatVis-DECISIVe.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="http://pages.cs.wisc.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+	</div>
+	<div class="conf">
+		DECISIVe: Workshop on Dealing with Cognitive Biases in Visualisations &mdash; oct 2017
+	</div>
+</div>
+
+<div class="ref">
+	<div class="title">
+		<a href="http://idl.cs.washington.edu/papers/regression-by-eye">Regression by Eye: Estimating Trends in Bivariate Visualizations</a> &nbsp;
    <a href="http://idl.cs.washington.edu/files/2017-RegressionByEye-CHI.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Trend-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://homes.cs.washington.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+		<a href="http://pages.cs.wisc.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
 	</div>
 	<div class="conf">
-		Proceedings of the 2017 ACM annual conference on Human Factors in Computing Systems &mdash; to appear
+		Proceedings of the 2017 ACM annual conference on Human Factors in Computing Systems, page 1387--1396 &mdash; may 2017
 	</div>
 </div>
 
@@ -17,11 +30,11 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://idl.cs.washington.edu/papers/surprise-maps">Surprise! Bayesian Weighting for De-Biasing Thematic Maps</a> &nbsp; 
+		<a href="http://idl.cs.washington.edu/papers/surprise-maps">Surprise! Bayesian Weighting for De-Biasing Thematic Maps</a> &nbsp;
    <a href="http://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-SurpriseMaps-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://homes.cs.washington.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+		<a href="http://pages.cs.wisc.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
 	</div>
 	<div class="conf">
 		IEEE Transactions on Visualization and Computer Graphics, Volume 20, Number 14, page 651--660 &mdash; jan 2017
