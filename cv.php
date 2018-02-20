@@ -12,10 +12,7 @@ include('header.php');
 <div id="container">
 	<p>Click <a href="./cv.pdf">here</a> for pdf version.
 	</p>
-	<iframe src="https://docs.google.com/gview?url=
-<?php
-echo $_SERVER['HTTP_HOST'];
-?>cv.pdf&embedded=true" frameborder="0" style="height: 750px; width: 100%;"></iframe>
+	<iframe src="https://docs.google.com/gview?url=<?php echo $_SERVER['HTTP_HOST']; ?>cv.pdf&embedded=true" frameborder="0" style="height: 750px; width: 100%;"></iframe>
 </div>
 <?php
 include('footer.php');
