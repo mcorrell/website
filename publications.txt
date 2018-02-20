@@ -1,3 +1,33 @@
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/mcorrell/ross-chernoff"><img src="http://idl.cs.washington.edu/static/images/thumbs/uncertainty-palettes.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://github.com/mcorrell/ross-chernoff">Ross-Chernoff Glyphs Or: How Do We Kill Bad Ideas in Visualization?</a> &nbsp;
+   <a href="https://github.com/mcorrell/ross-chernoff/blob/master/altCHI-preprint.pdf"><img class='doc' src='https://en.wikipedia.org/wiki/Bob_Ross#/media/File:Bob_at_Easel.jpg' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="<?php echo $_SERVER['HTTP_HOST']; ?>">Michael Correll</a>
+	</div>
+	<div class="conf">
+		Proceedings of the alt.CHI 2018; to appear
+	</div>
+</div>
+
+<div class="thumb image"><div style="padding-top:13px;"><a href="http://idl.cs.washington.edu/papers/uncertainty-palettes/"><img src="http://idl.cs.washington.edu/static/images/thumbs/uncertainty-palettes.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="http://idl.cs.washington.edu/papers/uncertainty-palettes/">Black Hat Visualization</a> &nbsp;
+   <a href="http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="<?php echo $_SERVER['HTTP_HOST']; ?>">Michael Correll</a>, <a href="http://domoritz.de/">Dominik Moritz</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+	</div>
+	<div class="conf">
+		Proceedings of the 2018 ACM annual conference on Human Factors in Computing Systems; to appear
+	</div>
+</div>
+
 <div class="thumb image"><div style="padding-top:13px;"><a href="http://idl.cs.washington.edu/papers/blackhatvis"><img src="http://idl.cs.washington.edu/static/images/thumbs/blackhatvis.png" /></div>
 </div>
 <div class="ref">
@@ -6,7 +36,7 @@
    <a href="http://idl.cs.washington.edu/files/2017-BlackHatVis-DECISIVe.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://pages.cs.wisc.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+		<a href="<?php echo $_SERVER['HTTP_HOST']; ?>">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
 	</div>
 	<div class="conf">
 		DECISIVe: Workshop on Dealing with Cognitive Biases in Visualisations &mdash; oct 2017
@@ -21,7 +51,7 @@
    <a href="http://idl.cs.washington.edu/files/2017-RegressionByEye-CHI.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Trend-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://pages.cs.wisc.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+		<a href="<?php echo $_SERVER['HTTP_HOST']; ?>">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
 	</div>
 	<div class="conf">
 		Proceedings of the 2017 ACM annual conference on Human Factors in Computing Systems, page 1387--1396 &mdash; may 2017
@@ -36,7 +66,7 @@
    <a href="http://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-SurpriseMaps-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://pages.cs.wisc.edu/~mcorrell/">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+		<a href="<?php echo $_SERVER['HTTP_HOST']; ?>">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
 	</div>
 	<div class="conf">
 		IEEE Transactions on Visualization and Computer Graphics, Volume 20, Number 14, page 651--660 &mdash; jan 2017
