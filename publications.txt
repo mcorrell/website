@@ -1,9 +1,9 @@
-<div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/mcorrell/ross-chernoff"><img src="http://idl.cs.washington.edu/static/images/thumbs/uncertainty-palettes.png" /></div>
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/mcorrell/ross-chernoff"><img src="https://upload.wikimedia.org/wikipedia/en/7/70/Bob_at_Easel.jpg" /></div>
 </div>
 <div class="ref">
 	<div class="title">
 		<a href="https://github.com/mcorrell/ross-chernoff">Ross-Chernoff Glyphs Or: How Do We Kill Bad Ideas in Visualization?</a> &nbsp;
-   <a href="https://github.com/mcorrell/ross-chernoff/blob/master/altCHI-preprint.pdf"><img class='doc' src='https://en.wikipedia.org/wiki/Bob_Ross#/media/File:Bob_at_Easel.jpg' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
+   <a href="https://github.com/mcorrell/ross-chernoff/blob/master/altCHI-preprint.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='altCHI-preprint.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="<?php echo $_SERVER['HTTP_HOST']; ?>">Michael Correll</a>
