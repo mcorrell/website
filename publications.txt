@@ -18,7 +18,7 @@
 <div class="ref">
 	<div class="title">
 		<a href="http://idl.cs.washington.edu/papers/uncertainty-palettes/">Value-Suppressing Uncertainty Palettes</a> &nbsp;
-   <a href="http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
+   <a href="http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-UncertaintyPalettes-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="http://correll.io">Michael Correll</a>, <a href="http://domoritz.de/">Dominik Moritz</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
