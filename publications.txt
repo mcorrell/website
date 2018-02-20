@@ -17,7 +17,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://idl.cs.washington.edu/papers/uncertainty-palettes/">Black Hat Visualization</a> &nbsp;
+		<a href="http://idl.cs.washington.edu/papers/uncertainty-palettes/">Value-Suppressing Uncertainty Palettes</a> &nbsp;
    <a href="http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
 	</div>
 	<div class="authors">
