@@ -1,4 +1,4 @@
-<div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/mcorrell/ross-chernoff"><img src="https://upload.wikimedia.org/wikipedia/en/7/70/Bob_at_Easel.jpg" /></div>
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/mcorrell/ross-chernoff"><img src="images/ross.png" /></div>
 </div>
 <div class="ref">
 	<div class="title">

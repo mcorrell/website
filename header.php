@@ -1,6 +1,6 @@
 <div id="header">
   <div id="headshot">
-    <a href="/~mcorrell/"><img title="Michael Correll" src="images/Correll.png" height="100px" /></a>
+    <a href="/"><img title="Michael Correll" src="images/Correll.png" height="100px" /></a>
   </div>
 
   <div id="headerText">
