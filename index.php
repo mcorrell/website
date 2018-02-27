@@ -31,7 +31,7 @@
     </p>
 
     <p>
-      For a more details of my interests, here is my <a href="./research.pdf">research</a> statement, <a href="./teaching.pdf">teaching</a> statement, and <a href="./cv.pdf">curriculum vitae</a>.
+      For more details on my interests, here is my <a href="./research.pdf">research</a> statement, <a href="./teaching.pdf">teaching</a> statement, and <a href="./cv.pdf">curriculum vitae</a>.
     </p>
 
   </div>
