@@ -43,11 +43,11 @@
    <a href="TODO"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-Dashboards-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="https://faculty.washington.edu/jhullman/">Alper Sarikaya</a>,
+		<a href="https://alper.datav.is/">Alper Sarikaya</a>,
 		<a href="http://correll.io">Michael Correll</a>,
-		<a href="https://courses.washington.edu/viscog/AlexKale.html">Lyn Bartram</a>,
-		<a href="http://www.mjskay.com/">Melanie Tory</a>,
-		<a href="http://www.mjskay.com/">Danyel Fisher</a>
+		<a href="https://www.sfu.ca/~lyn/">Lyn Bartram</a>,
+		<a href="https://research.tableau.com/user/melanie-tory">Melanie Tory</a>,
+		<a href="https://danyelfisher.info/">Danyel Fisher</a>
 	</div>
 	<div class="conf">
 		IEEE Transactions on Visualization and Computer Graphics; to appear
