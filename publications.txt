@@ -16,12 +16,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div style="padding-top:13px;"><a href="TODO"><img src="images/uncertaintyeval.png" /></div>
+<div class="thumb image"><div style="padding-top:13px;"><a href="http://visualization.ischool.uw.edu/~xiaoliq/uncertainty_vis_eval/"><img src="images/uncertaintyeval.png" /></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="TODO">In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation</a> &nbsp;
-   <a href="TODO"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-UncertaintyEval-InfoVis.pdf' /></a>
+		<a href="http://visualization.ischool.uw.edu/~xiaoliq/uncertainty_vis_eval/">In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation</a> &nbsp;
+   <a href="https://github.com/jhullman/uncertaintyVisEval/blob/master/uncertainty_vis_eval.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-UncertaintyEval-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="https://faculty.washington.edu/jhullman/">Jessica Hullman</a>,
