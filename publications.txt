@@ -39,8 +39,8 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="TODO">What Do We Talk About When We Talk About Dashboards?</a> &nbsp;
-   <a href="TODO"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-Dashboards-InfoVis.pdf' /></a>
+		<a href="https://research.tableau.com/paper/what-do-we-talk-about-when-we-talk-about-dashboards">What Do We Talk About When We Talk About Dashboards?</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/DashboardsConspiracy_final.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-Dashboards-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="https://alper.datav.is/">Alper Sarikaya</a>,
