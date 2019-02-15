@@ -1,3 +1,18 @@
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research"><img src="images/ethics.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Implications of Visualization Research</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/CHI-cameraready.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-SanityChecks-InfoVis.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="http://correll.io">Michael Correll</a>,
+	</div>
+	<div class="conf">
+		Proceedings of the 2018 ACM annual conference on Human Factors in Computing Systems; to appear
+	</div>
+</div>
+
 <div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/AlgebraicVis/SanityCheck"><img src="images/sanitycheck.png" /></div>
 </div>
 <div class="ref">
@@ -12,7 +27,7 @@
 		<a href="https://cscheid.net/">Carlos Scheidegger</a>
 	</div>
 	<div class="conf">
-		IEEE Transactions on Visualization and Computer Graphics; to appear
+		IEEE Transactions on Visualization and Computer Graphics, Volume 25, Number 1, page 830--839 &mdash; jan 2019
 	</div>
 </div>
 
@@ -31,7 +46,7 @@
 		<a href="http://www.mjskay.com/">Matthew Kay</a>
 	</div>
 	<div class="conf">
-		IEEE Transactions on Visualization and Computer Graphics; to appear
+		IEEE Transactions on Visualization and Computer Graphics, Volume 25, Number 1, page 903--913 &mdash; jan 2019
 	</div>
 </div>
 
@@ -50,7 +65,7 @@
 		<a href="https://danyelfisher.info/">Danyel Fisher</a>
 	</div>
 	<div class="conf">
-		IEEE Transactions on Visualization and Computer Graphics; to appear
+		IEEE Transactions on Visualization and Computer Graphics, Volume 25, Number 1, page 682--692 &mdash; jan 2019
 	</div>
 </div>
 
