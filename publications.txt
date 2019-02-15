@@ -1,4 +1,4 @@
-<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research"><img src="images/ethics.png" /></div>
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research"><img src="images/ethics.jpg" /></div>
 </div>
 <div class="ref">
 	<div class="title">
