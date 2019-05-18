@@ -1,3 +1,20 @@
+<div class="thumb image"><div style="padding-top:13px;"><a href="http://idl.cs.washington.edu/papers/animated-aggregate-operations"><img src="http://idl.cs.washington.edu/static/images/thumbs/animated-aggregate-operations.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="http://idl.cs.washington.edu/papers/animated-aggregate-operations">Designing Animated Transitions to Convey Aggregate Operations</a> &nbsp;
+   <a href="http://idl.cs.washington.edu/files/2019-AnimatedAggregates-EuroVis.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Animation-EuroVis.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="https://yhoonkim.github.io/">Younghoon Kim</a>,
+		<a href="http://correll.io">Michael Correll</a>,
+		<a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
+	</div>
+	<div class="conf">
+	Computer Graphics Forum (Proc. EuroVis), 2019; to appear
+	</div>
+</div>
+
 <div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research"><img src="images/ethics.png" /></div>
 </div>
 <div class="ref">
@@ -6,10 +23,10 @@
    <a href="https://research.tableau.com/sites/default/files/CHI-cameraready.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Ethics-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://correll.io">Michael Correll</a>,
+		<a href="http://correll.io">Michael Correll</a>
 	</div>
 	<div class="conf">
-		Proceedings of the 2018 ACM annual conference on Human Factors in Computing Systems; to appear
+		Proceedings of the 2019 ACM annual conference on Human Factors in Computing Systems
 	</div>
 </div>
 
