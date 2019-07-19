@@ -1,3 +1,24 @@
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/improving-robustness-scagnostics"><img src="images/scagnostics.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://research.tableau.com/paper/improving-robustness-scagnostics">Improving the Robustness of Scagnostics</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/vis-accepted-version.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="http://www.yunhaiwang.net/">Yunhai Wang</a>,
+		<a href="https://sites.google.com/view/zyw/">Zeyu Wang</a>,
+		Tingting Liu,
+		<a href="http://correll.io">Michael Correll</a>,
+		<a href="http://web.siat.ac.cn/~zhanglin/">Zangling Cheng</a>,
+		<a href="https://www.cgmi.uni-konstanz.de/en/persons/prof-dr-oliver-deussen/">Oliver Deussen</a>,
+		<a href="https://homepage.univie.ac.at/michael.sedlmair/">Michael Sedlmair</a>
+	</div>
+	<div class="conf">
+	IEEE Transactions on Visualization and Computer Graphics; to appear
+	</div>
+</div>
+
 <div class="thumb image"><div style="padding-top:13px;"><a href="http://idl.cs.washington.edu/papers/animated-aggregate-operations"><img src="http://idl.cs.washington.edu/static/images/thumbs/animated-aggregate-operations.png" /></div>
 </div>
 <div class="ref">
@@ -11,7 +32,7 @@
 		<a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
 	</div>
 	<div class="conf">
-	Computer Graphics Forum (Proc. EuroVis), 2019; to appear
+	Computer Graphics Forum (Proc. EuroVis), Volume 38, Number 3, page 541--551 &mdash; jun 2019
 	</div>
 </div>
 
