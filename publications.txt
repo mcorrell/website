@@ -40,7 +40,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Implications of Visualization Research</a> &nbsp;
+		<a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Dimensions of Visualization Research</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/CHI-cameraready.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Ethics-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
