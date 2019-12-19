@@ -18,7 +18,7 @@ include('header.php');
 
                 //University of Wisconsin Basilic Results
                 $ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, 'http://graphics.cs.wisc.edu/Papers/spartan.php?author=Correll');
+		curl_setopt($ch, CURLOPT_URL, 'https://graphics.cs.wisc.edu/Papers/spartan.php?author=Correll');
 		curl_setopt($ch, CURLOPT_HEADER,0);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER,1);
 		$data = curl_exec($ch);
