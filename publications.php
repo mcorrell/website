@@ -13,7 +13,6 @@ include('header.php');
 	<p>The following is a list of my current publications. Click each title to visit an associated page with more information.
 	</p>
 	<?php
-	/*
                 //Personal stash of papers
                 $papers = file_get_contents('./publications.txt');
 
@@ -30,7 +29,6 @@ include('header.php');
                 $data = substr_replace($data, $papers, $results, 0);
                 $data = preg_replace("/padding-top:(\d*)px(;?)/","",$data);
                 echo $data;
-								*/
 	?>
 	</p>
 	<p>
