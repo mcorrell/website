@@ -1,3 +1,54 @@
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/tableau/Visualization-Linting/"><img src="images/mirage.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://github.com/tableau/Visualization-Linting/">Surfacing Visualization Mirages</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/linting-cameraready.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Mirages-CHI.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="https://www.mcnutt.in/">Andrew McNutt</a>
+		<a href="http://people.cs.uchicago.edu/~glk/">Gordon Kindlmann</a>
+		<a href="http://correll.io">Michael Correll</a>
+	</div>
+	<div class="conf">
+		Proceedings of the 2020 ACM annual conference on Human Factors in Computing Systems
+	</div>
+</div>
+
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://osf.io/gz98h/"><img src="images/truncation.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://osf.io/gz98h/">Truncating the Y-Axis: Threat or Menace?</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/CHI-truncation-embedded.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Truncation-CHI.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="http://correll.io">Michael Correll</a>
+		<a href="http://enrico.bertini.io/">Enrico Bertini</a>
+		<a href="http://www.wcas.northwestern.edu/psych/people/faculty/faculty_individual_pages/franconeri_.htm">Steven Franconeri</a>
+	</div>
+	<div class="conf">
+		Proceedings of the 2020 ACM annual conference on Human Factors in Computing Systems
+	</div>
+</div>
+
+<div class="thumb image"><div style="padding-top:13px;"><a href="http://vis-tarot.github.io/"><img src="images/tarot.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="http://vis-tarot.github.io/">Divining Insights: Visual Analytics Through Cartomancy</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/altchi-tarot-cameraready.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='altCHI-preprint.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="https://www.mcnutt.in/">Andrew McNutt</a>
+		<a href="https://amcrisan.github.io/">Anamaria Crisan </a>
+		<a href="http://correll.io">Michael Correll</a>
+	</div>
+	<div class="conf">
+		Proceedings of alt.CHI 2020
+	</div>
+</div>
+
 <div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/improving-robustness-scagnostics"><img src="images/scagnostics.png" /></div>
 </div>
 <div class="ref">
@@ -40,7 +91,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Implications of Visualization Research</a> &nbsp;
+		<a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Dimensions of Visualization Research</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/CHI-cameraready.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Ethics-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
