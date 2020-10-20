@@ -27,13 +27,12 @@
       I received my PhD. from the <a href="http://cs.wisc.edu">University of Wisconsin-Madison</a> Department of Computer Sciences in August, 2015. As a PhD. student, I worked with  <a href="/~gleicher/">Michael Gleicher</a> in the <a href="http://graphics.cs.wisc.edu">UW Graphics Group</a>, where I worked in the area of  information visualization, especially in issues related to text analytics for the humanities.  In addition I was also involved with the <a href="http://dighum.wisc.edu/">Digital Humanities</a> working group.
     </p>
     <p>
-      My current <a href="./research.php">research interests</a> include data ethics, communicating statistics to mass audiences, and investigating "biased" or "misleading" data visualizations.
+      My current <a href="./research.php">research interests</a> include data ethics, communicating statistics to mass audiences, and investigating biased or misleading data visualizations.
     </p>
 
     <p>
       For more details on my interests, here is my <a href="./research.pdf">research</a> statement, <a href="./teaching.pdf">teaching</a> statement, and <a href="./cv.pdf">curriculum vitae</a>.
     </p>
-
   </div>
 
   <?php
