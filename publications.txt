@@ -1,3 +1,35 @@
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/why-shouldnt-all-charts-be-scatter-plots-beyond-precision-driven-visualizations"><img src="images/beyond.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://research.tableau.com/paper/why-shouldnt-all-charts-be-scatter-plots-beyond-precision-driven-visualizations">Why Shouldn't All Charts Be Scatter Plots? Beyond Precision-Driven Visualizations</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/Beyond_Visual_Variables.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Scatter-VIS.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="http://enrico.bertini.io/">Enrico Bertini</a>
+		<a href="http://correll.io">Michael Correll</a>
+		<a href="http://www.wcas.northwestern.edu/psych/people/faculty/faculty_individual_pages/franconeri_.htm">Steven Franconeri</a>
+	</div>
+	<div class="conf">
+		Proceedings of the 2020 ACM annual conference on Human Factors in Computing Systems
+	</div>
+</div>
+
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/what-do-we-actually-learn-evaluations-%E2%80%9Cheroic-era%E2%80%9D-visualization"><img src="images/heroic.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+	 <a href="https://research.tableau.com/paper/what-do-we-actually-learn-evaluations-%E2%80%9Cheroic-era%E2%80%9D-visualization">What Can We Actually Learn from Evaluations in the "Heroic Era" of Visualization</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/BELIV_CancerVis.pdf"><img class='doc' src='http://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Heroic-BELIV.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="http://correll.io">Michael Correll</a>
+	</div>
+	<div class="conf">
+		BELIV 2020: Evaluation and Beyond &mdash; Methodological Approaches for Visualization
+	</div>
+</div>
+
 <div class="thumb image"><div style="padding-top:13px;"><a href="https://github.com/tableau/Visualization-Linting/"><img src="images/mirage.png" /></div>
 </div>
 <div class="ref">

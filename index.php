@@ -15,8 +15,8 @@
     </p>
 
     <p>
-      I am currently a research scientist at <a href="https://research.tableau.com/">Tableau Software</a>, where I work in the area of <b>information visualization</b>. I am particularly interested in seeing how we can use the perceptual system to better communicate complex statistical concepts to general audiences,
-      but I am also interested in text analytics, statistical graphics, uncertainty visualization, and the intersection of visualization and machine learning.
+      I am currently a research scientist at <a href="https://research.tableau.com/">Tableau Software</a>, where I work in the area of <b>information visualization</b>. I am particularly interested in the ethical, accurate, and responsible communication of data,
+      but I am also interested in graphical perception, text analytics, statistical graphics, and uncertainty visualization.
     </p>
 
     <p>
@@ -27,7 +27,7 @@
       I received my PhD. from the <a href="http://cs.wisc.edu">University of Wisconsin-Madison</a> Department of Computer Sciences in August, 2015. As a PhD. student, I worked with  <a href="/~gleicher/">Michael Gleicher</a> in the <a href="http://graphics.cs.wisc.edu">UW Graphics Group</a>, where I worked in the area of  information visualization, especially in issues related to text analytics for the humanities.  In addition I was also involved with the <a href="http://dighum.wisc.edu/">Digital Humanities</a> working group.
     </p>
     <p>
-      My current <a href="./research.php">research interests</a> include the presentation of statistical data to non-experts, visualizations for the de-biasing of decision-making under uncertainty, and the digital humanities.
+      My current <a href="./research.php">research interests</a> include data ethics, communicating statistics to mass audiences, and investigating "biased" or "misleading" data visualizations.
     </p>
 
     <p>
