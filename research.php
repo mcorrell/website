@@ -14,20 +14,20 @@ include('header.php');
 <ul>
 
 <li /><p><b>Ethical and "Black Hat" Visualization:</b> visualizations are sometimes our first, most impactful, or only interaction with data. This makes visualizations potentially very powerful. Wherever there is power, there is a potential for harm and misuse. I am interested in the ethical considations around visualization, both in terms of how specific visualizations can mislead or bias, but in an overall sense of designing best practices for visualization designers. This work involves reflections on the state of the field, case studies of specific systems, and empirical studies on visualization designs.</p>
-<p>Example papers:<br/>
+<p><b>Example papers:</b><br/>
 <a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Dimensions of Visualization Research</a><br/>
 <a href="https://osf.io/gz98h/">Truncating the Y-Axis: Threat or Menace?</a>
 </p>
 
 <li /><p><b>Visual Statistics:</b> If we know what someone wants from our data, then we can give them that information directly. In this case a database query might be more suitable than a visualization tool. But the promise of visualization lies in situations where the designer may not know exactly what the viewer wants to know, but the viewer is instead free to explore the dataset to build up understanding by themselves. In order for such designs to work, we as designers need to know how good users are at using <i>visual information</i> to build up big picture <i>statistical information</i> from data.</p>
 <p>Research from pyschology has shown that the visual system is capable of extracting a wide variety of statistical information (average values, variability, extrema) from visual stimuli in the world around us. My research in this area is an attempt to apply these findings to visualization, to show how we can design displays that rely on these abilities to let viewers build up "big pictures" by themselves.
-<p>Example papers: <br/>
-	<a href="https://github.com/AlgebraicVis/SanityCheck">Looka Good To Me: Visualizations as Sanity Checks</a><br/>
+<p><b>Example papers:</b><br/>
+	<a href="https://github.com/AlgebraicVis/SanityCheck">Looks Good To Me: Visualizations as Sanity Checks</a><br/>
 	<a href="http://idl.cs.washington.edu/files/2017-RegressionByEye-CHI.pdf">Regression by Eye: Estimating Trends in Bivariate Visualizations</a>
 </p>
 
 <li /><p><b>Systems Building in Applied Domains:</b> the relationship that specific domains have with data is changing, as a result not just of "more" data, but <i>different</i> data. My expertise with uncertainty visualization, epistemology, and human computer interaction has led me to work with experts in diverse fields like the digitial humanities, genomics, and business intelligence to to solve data problems that have been overlooked by conventional visualization systems.</p>
-<p>Example papers: <br/>
+<p><b>Example papers:</b><br/>
 	<a href="http://graphics.cs.wisc.edu/Papers/2011/CWG11a/">Exploring Collections of Tagged Text for Literary Scholarship</a><br/>
 	<a href="http://graphics.cs.wisc.edu/Papers/2011/CGOG11/">Visualizing Virus Population Variability From Next Generation Sequencing Data</a>
 </p>
