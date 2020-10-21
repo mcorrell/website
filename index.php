@@ -33,6 +33,10 @@
     <p>
       For more details on my interests, here is my <a href="./research.pdf">research</a> statement, <a href="./teaching.pdf">teaching</a> statement, and <a href="./cv.pdf">curriculum vitae</a>.
     </p>
+
+    <p>
+      For less formal writing and reflection, check my <a href="https://medium.com/@mcorrell">Medium blog</a>.
+    </p>
   </div>
 
   <?php
