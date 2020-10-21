@@ -19,7 +19,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-	 <a href="https://research.tableau.com/paper/what-do-we-actually-learn-evaluations-%E2%80%9Cheroic-era%E2%80%9D-visualization">What Can We Actually Learn from Evaluations in the "Heroic Era" of Visualization</a> &nbsp;
+	 <a href="https://research.tableau.com/paper/what-do-we-actually-learn-evaluations-%E2%80%9Cheroic-era%E2%80%9D-visualization">What Can We Actually Learn from Evaluations in the "Heroic Era" of Visualization?</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/BELIV_CancerVis.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Heroic-BELIV.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -98,7 +98,24 @@
 		<a href="https://homepage.univie.ac.at/michael.sedlmair/">Michael Sedlmair</a>
 	</div>
 	<div class="conf">
-	IEEE Transactions on Visualization and Computer Graphics; to appear
+		IEEE Transactions on Visualization and Computer Graphics, Volume 26, Number 1, page 759--769 — jan 2020
+	</div>
+</div>
+
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://osf.io/jwbn2/"><img src="images/lint.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://osf.io/jwbn2/">VisuaLint: Sketchy In Situ Annotations of Chart Construction Errors</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/eurovis2020-linting-camera.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="https://skitree.github.io/aspenhopkins/">Aspen K. Hopkins</a>,
+		<a href="http://correll.io">Michael Correll</a>,
+		<a href="https://arvindsatya.com/">Arvind Satyanarayan</a>
+	</div>
+	<div class="conf">
+		Computer Graphics Forum (Proc. EuroVis), Volume 39, Number 3, page 219--228 — jun 2020
 	</div>
 </div>
 
