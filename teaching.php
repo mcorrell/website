@@ -11,12 +11,24 @@ include('header.php');
 
 <div id="container">
 
-<p></p><h3>Instructional Staff:</h3>
-<a href = "http://www.washington.edu">University of Washington:</a><br><ul>
+<p>Please contact me for guest lectures! Recent topics of guest lectures have included:<br/>
+<ul>
+	<li>Uncertainty Visualization</li>
+	<li>Introduction to Information Visualization</li>
+	<li>Visualization Evaluation</li>
+	<li>Exploratory Data Analysis</li>
+	<li>Probability Theory</li>
+	<li>Machine Learning Ethics</li>
+</ul>
+</p>
+
+<h3>Instructional Staff:</h3>
+<a href = "http://www.washington.edu">University of Washington:</a><br/><ul>
 <li>Spring '16: <a href="http://courses.cs.washington.edu/courses/cse512/16sp/">CSE512: Data Visualization</a></li>
 </ul>
-<p></p><h3>Teaching Assistant:</h3>
-<a href = "http://www.wisc.edu">University of Wisconsin-Madison:</a><br><ul>
+
+<h3>Teaching Assistant:</h3>
+<a href = "http://www.wisc.edu">University of Wisconsin-Madison:</a><br/><ul>
 <li>Spring '12: <a href="http://graphics.cs.wisc.edu/Courses/Visualization12/">CS638/838: Visualization</a></li>
 <li>Spring '10: <a href="http://graphics.cs.wisc.edu/Courses/Visualization10/">CS838: Visualization</a></li>
 <li>Spring '10: <a href="http://graphics.cs.wisc.edu/Courses/Games10/">CS679: Computer Game Technology</a></li>
