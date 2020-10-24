@@ -11,7 +11,7 @@
 		<a href="http://www.wcas.northwestern.edu/psych/people/faculty/faculty_individual_pages/franconeri_.htm">Steven Franconeri</a>
 	</div>
 	<div class="conf">
-		Proceedings of the 2020 ACM annual conference on Human Factors in Computing Systems
+		IEEE VIS Short Papers, to appear
 	</div>
 </div>
 
