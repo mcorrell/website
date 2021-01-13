@@ -1,3 +1,58 @@
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/data-driven-mark-orientation-trend-estimation-scatterplots"><img src="images/data-driven-mark.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://research.tableau.com/paper/data-driven-mark-orientation-trend-estimation-scatterplots">Data-Driven Mark Orientation for Trend Estimation in Scatterplots</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/orientation-chi.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2021-Data-Driven-Marks-CHI.pdf' /></a>
+	</div>
+	<div class="authors">
+		Tingting Liu,
+		Xiaoting Li,
+		Chen Bao,
+		<a href="http://correll.io">Michael Correll</a>,
+		Changhe Tu,
+		<a href="https://www.cgmi.uni-konstanz.de/en/persons/prof-dr-oliver-deussen/">Oliver Deussen</a>,
+		<a href="http://www.yunhaiwang.net/">Yunhai Wang</a>
+	</div>
+	<div class="conf">
+		CHI 2021, to appear
+	</div>
+</div>
+
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/user-ex-machina-simulation-design-probe-human-loop-text-analytics"><img src="images/topic-model.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://research.tableau.com/paper/user-ex-machina-simulation-design-probe-human-loop-text-analytics">User Ex Machina: Simulation as a Design Probe in Human-in-the-Loop Text Analytics</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/topic-model.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2021-Topic-Model-CHI.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="https://amcrisan.github.io/">Anamaria Crisan</a>,
+		<a href="http://correll.io">Michael Correll</a>
+	</div>
+	<div class="conf">
+		CHI 2021, to appear
+	</div>
+</div>
+
+<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/vis-ex-machina-analysis-trust-human-versus-algorithmically-generated-visualization"><img src="images/recommendation-bias.png" /></div>
+</div>
+<div class="ref">
+	<div class="title">
+		<a href="https://research.tableau.com/paper/vis-ex-machina-analysis-trust-human-versus-algorithmically-generated-visualization">Vis Ex Machina: An Analysis of Trust in Human versus Algorithmically Generated Visualization Recommendations</a> &nbsp;
+   <a href="https://research.tableau.com/sites/default/files/vis-bias.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2021-Recommendation-Bias-CHI.pdf' /></a>
+	</div>
+	<div class="authors">
+		<a href="http://www.rzehrung.name/">Rachael Zehrung</a>,
+		<a href="https://www.linkedin.com/in/asinghal084">Ashta Singhal</a>,
+		<a href="http://correll.io">Michael Correll</a>,
+		<a href="https://www.cs.umd.edu/~leilani/">Leilani Battle</a>
+	</div>
+	<div class="conf">
+		CHI 2021, to appear
+	</div>
+</div>
+
 <div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/why-shouldnt-all-charts-be-scatter-plots-beyond-precision-driven-visualizations"><img src="images/beyond.png" /></div>
 </div>
 <div class="ref">
@@ -6,12 +61,12 @@
    <a href="https://research.tableau.com/sites/default/files/Beyond_Visual_Variables.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Scatter-VIS.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://enrico.bertini.io/">Enrico Bertini</a>
-		<a href="http://correll.io">Michael Correll</a>
+		<a href="http://enrico.bertini.io/">Enrico Bertini</a>,
+		<a href="http://correll.io">Michael Correll</a>,
 		<a href="http://www.wcas.northwestern.edu/psych/people/faculty/faculty_individual_pages/franconeri_.htm">Steven Franconeri</a>
 	</div>
 	<div class="conf">
-		IEEE VIS Short Papers, to appear
+		IEEE VIS Short Papers, 2020
 	</div>
 </div>
 
@@ -38,8 +93,8 @@
    <a href="https://research.tableau.com/sites/default/files/linting-cameraready.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Mirages-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="https://www.mcnutt.in/">Andrew McNutt</a>
-		<a href="http://people.cs.uchicago.edu/~glk/">Gordon Kindlmann</a>
+		<a href="https://www.mcnutt.in/">Andrew McNutt</a>,
+		<a href="http://people.cs.uchicago.edu/~glk/">Gordon Kindlmann</a>,
 		<a href="http://correll.io">Michael Correll</a>
 	</div>
 	<div class="conf">
@@ -55,8 +110,8 @@
    <a href="https://research.tableau.com/sites/default/files/CHI-truncation-embedded.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Truncation-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="http://correll.io">Michael Correll</a>
-		<a href="http://enrico.bertini.io/">Enrico Bertini</a>
+		<a href="http://correll.io">Michael Correll</a>,
+		<a href="http://enrico.bertini.io/">Enrico Bertini</a>,
 		<a href="http://www.wcas.northwestern.edu/psych/people/faculty/faculty_individual_pages/franconeri_.htm">Steven Franconeri</a>
 	</div>
 	<div class="conf">
@@ -72,8 +127,8 @@
    <a href="https://research.tableau.com/sites/default/files/altchi-tarot-cameraready.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='altCHI-preprint.pdf' /></a>
 	</div>
 	<div class="authors">
-		<a href="https://www.mcnutt.in/">Andrew McNutt</a>
-		<a href="https://amcrisan.github.io/">Anamaria Crisan </a>
+		<a href="https://www.mcnutt.in/">Andrew McNutt</a>,
+		<a href="https://amcrisan.github.io/">Anamaria Crisan</a>,
 		<a href="http://correll.io">Michael Correll</a>
 	</div>
 	<div class="conf">
