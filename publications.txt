@@ -44,7 +44,7 @@
 	</div>
 	<div class="authors">
 		<a href="http://www.rzehrung.name/">Rachael Zehrung</a>,
-		<a href="https://www.linkedin.com/in/asinghal084">Ashta Singhal</a>,
+		<a href="https://www.linkedin.com/in/asinghal084">Astha Singhal</a>,
 		<a href="http://correll.io">Michael Correll</a>,
 		<a href="https://www.cs.umd.edu/~leilani/">Leilani Battle</a>
 	</div>
