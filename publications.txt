@@ -7,7 +7,7 @@
 	</div>
 	<div class="authors">
 		Tingting Liu,
-		Xiaoting Li,
+		Xiaotong Li,
 		Chen Bao,
 		<a href="http://correll.io">Michael Correll</a>,
 		Changhe Tu,
