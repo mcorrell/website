@@ -1,8 +1,8 @@
-<div class="thumb image"><div style="padding-top:13px;"><a href="https://research.tableau.com/paper/data-driven-mark-orientation-trend-estimation-scatterplots"><img src="images/data-driven-mark.png" /></div>
+<div class="thumb image"><div style="padding-top:13px;"><a href="http://www.yunhaiwang.net/CHI2021/orientation/index.html"><img src="images/data-driven-mark.png" /></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/data-driven-mark-orientation-trend-estimation-scatterplots">Data-Driven Mark Orientation for Trend Estimation in Scatterplots</a> &nbsp;
+	 <a href="http://www.yunhaiwang.net/CHI2021/orientation/index.html">Data-Driven Mark Orientation for Trend Estimation in Scatterplots</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/orientation-chi.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2021-Data-Driven-Marks-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -39,7 +39,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/vis-ex-machina-analysis-trust-human-versus-algorithmically-generated-visualization">Vis Ex Machina: An Analysis of Trust in Human versus Algorithmically Generated Visualization Recommendations</a> &nbsp;
+	 <a href="https://research.tableau.com/paper/vis-ex-machina-analysis-trust-human-versus-algorithmically-generated-visualization">Vis Ex Machina: An Analysis of Trust in Human versus Algorithmically Generated Visualization Recommendations</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/vis-bias.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2021-Recommendation-Bias-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -57,7 +57,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/why-shouldnt-all-charts-be-scatter-plots-beyond-precision-driven-visualizations">Why Shouldn't All Charts Be Scatter Plots? Beyond Precision-Driven Visualizations</a> &nbsp;
+	 <a href="https://research.tableau.com/paper/why-shouldnt-all-charts-be-scatter-plots-beyond-precision-driven-visualizations">Why Shouldn't All Charts Be Scatter Plots? Beyond Precision-Driven Visualizations</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/Beyond_Visual_Variables.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Scatter-VIS.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -89,7 +89,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://github.com/tableau/Visualization-Linting/">Surfacing Visualization Mirages</a> &nbsp;
+	 <a href="https://github.com/tableau/Visualization-Linting/">Surfacing Visualization Mirages</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/linting-cameraready.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Mirages-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -106,7 +106,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://osf.io/gz98h/">Truncating the Y-Axis: Threat or Menace?</a> &nbsp;
+	 <a href="https://osf.io/gz98h/">Truncating the Y-Axis: Threat or Menace?</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/CHI-truncation-embedded.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2020-Truncation-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -123,7 +123,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://vis-tarot.github.io/">Divining Insights: Visual Analytics Through Cartomancy</a> &nbsp;
+	 <a href="http://vis-tarot.github.io/">Divining Insights: Visual Analytics Through Cartomancy</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/altchi-tarot-cameraready.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='altCHI-preprint.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -140,7 +140,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://osf.io/jwbn2/">VisuaLint: Sketchy In Situ Annotations of Chart Construction Errors</a> &nbsp;
+	 <a href="https://osf.io/jwbn2/">VisuaLint: Sketchy In Situ Annotations of Chart Construction Errors</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/eurovis2020-linting-camera.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -157,7 +157,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/improving-robustness-scagnostics">Improving the Robustness of Scagnostics</a> &nbsp;
+	 <a href="https://research.tableau.com/paper/improving-robustness-scagnostics">Improving the Robustness of Scagnostics</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/vis-accepted-version.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -178,7 +178,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://idl.cs.washington.edu/papers/animated-aggregate-operations">Designing Animated Transitions to Convey Aggregate Operations</a> &nbsp;
+	 <a href="http://idl.cs.washington.edu/papers/animated-aggregate-operations">Designing Animated Transitions to Convey Aggregate Operations</a> &nbsp;
    <a href="http://idl.cs.washington.edu/files/2019-AnimatedAggregates-EuroVis.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Animation-EuroVis.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -195,7 +195,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Dimensions of Visualization Research</a> &nbsp;
+	 <a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Dimensions of Visualization Research</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/CHI-cameraready.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2019-Ethics-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -210,7 +210,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://github.com/AlgebraicVis/SanityCheck">Looks Good To Me: Visualizations As Sanity Checks</a> &nbsp;
+	 <a href="https://github.com/AlgebraicVis/SanityCheck">Looks Good To Me: Visualizations As Sanity Checks</a> &nbsp;
    <a href="https://github.com/AlgebraicVis/SanityCheck/blob/master/InfoVis/preprint.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-SanityChecks-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -228,7 +228,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://visualization.ischool.uw.edu/~xiaoliq/uncertainty_vis_eval/">In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation</a> &nbsp;
+	 <a href="http://visualization.ischool.uw.edu/~xiaoliq/uncertainty_vis_eval/">In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation</a> &nbsp;
    <a href="https://github.com/jhullman/uncertaintyVisEval/blob/master/uncertainty_vis_eval.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-UncertaintyEval-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -247,7 +247,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/what-do-we-talk-about-when-we-talk-about-dashboards">What Do We Talk About When We Talk About Dashboards?</a> &nbsp;
+   <a href="https://research.tableau.com/paper/what-do-we-talk-about-when-we-talk-about-dashboards">What Do We Talk About When We Talk About Dashboards?</a> &nbsp;
    <a href="https://research.tableau.com/sites/default/files/DashboardsConspiracy_final.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2018-Dashboards-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -266,7 +266,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://github.com/mcorrell/ross-chernoff">Ross-Chernoff Glyphs Or: How Do We Kill Bad Ideas in Visualization?</a> &nbsp;
+	 <a href="https://github.com/mcorrell/ross-chernoff">Ross-Chernoff Glyphs Or: How Do We Kill Bad Ideas in Visualization?</a> &nbsp;
    <a href="https://github.com/mcorrell/ross-chernoff/blob/master/altCHI-preprint.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='altCHI-preprint.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -296,7 +296,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://idl.cs.washington.edu/papers/blackhatvis">Black Hat Visualization</a> &nbsp;
+	 <a href="http://idl.cs.washington.edu/papers/blackhatvis">Black Hat Visualization</a> &nbsp;
    <a href="http://idl.cs.washington.edu/files/2017-BlackHatVis-DECISIVe.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Blackhat-DECISIVE.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -311,7 +311,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://idl.cs.washington.edu/papers/regression-by-eye">Regression by Eye: Estimating Trends in Bivariate Visualizations</a> &nbsp;
+	 <a href="http://idl.cs.washington.edu/papers/regression-by-eye">Regression by Eye: Estimating Trends in Bivariate Visualizations</a> &nbsp;
    <a href="http://idl.cs.washington.edu/files/2017-RegressionByEye-CHI.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-Trend-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
@@ -326,7 +326,7 @@
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="http://idl.cs.washington.edu/papers/surprise-maps">Surprise! Bayesian Weighting for De-Biasing Thematic Maps</a> &nbsp;
+	 <a href="http://idl.cs.washington.edu/papers/surprise-maps">Surprise! Bayesian Weighting for De-Biasing Thematic Maps</a> &nbsp;
    <a href="http://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf"><img class='doc' src='https://graphics.cs.wisc.edu/Papers/images/pdf.png' width='19' height='19' alt='2017-SurpriseMaps-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
