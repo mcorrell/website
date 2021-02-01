@@ -1,4 +1,5 @@
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, information visualization" />
   <title>Michael Correll</title>
