@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html lang="en">
 <head>
 <meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, information visualization" />
 <title>Michael Correll</title>
@@ -30,7 +30,6 @@ include('header.php');
                 $data = preg_replace("/padding-top:(\d*)px(;?)/","",$data);
                 echo $data;
 	?>
-	</p>
 	<p>
 	My undergraduate St. Mary's project, "Can Machines Think: A Philosophical Guide" is available <a href="SMP/SMP.pdf">here</a>.
 	</p>
