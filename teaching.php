@@ -15,6 +15,7 @@ include('header.php');
 <p>Please contact me for guest lectures! Recent topics of guest lectures have included:<br/>
 <ul>
 	<li>Uncertainty Visualization</li>
+	<li>Visualization Ethics</li>
 	<li>Deceptive Visualization</li>
 	<li>Visualization Evaluation</li>
 	<li>Introduction to Information Visualization</li>
