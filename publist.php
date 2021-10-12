@@ -1,10 +1,46 @@
 <div class='results list'>
-	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/untidy-preprint.pdf"><img src="images/topic-model.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/untidy-preprint.pdf"><img src="images/bullshit.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://research.tableau.com/paper/towards-theory-bullshit-visualization">Towards a Theory of Bullshit Visualization</a> &nbsp;
+		 <a href="https://research.tableau.com/sites/default/files/altvis-bullshit_0.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Bullshit-Vis-VIS.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="http://correll.io">Michael Correll</a>
+		</div>
+		<div class="conf">
+			alt.VIS 2021
+		</div>
+	</div>
+
+	<div class="thumb image"><div><a href="https://research.tableau.com/paper/illegible-semantics-exploring-design-space-metal-logos"><img src="images/metal.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://research.tableau.com/paper/illegible-semantics-exploring-design-space-metal-logos">Illegible Semantics: Exploring the Design Space of Metal Logos</a> &nbsp;
+	   <a href="https://research.tableau.com/sites/default/files/MetalVis.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Untidy-Tables-VIS.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://www.artstation.com/tundratoucan">Gerrit J. Rijken</a>,
+			<a href="https://renecutura.eu/">Rene Cutura</a>
+			<a href="https://www.visus.uni-stuttgart.de/en/institute/team/Heyen/">Frank Heyen</a>
+			<a href="https://homepage.univie.ac.at/michael.sedlmair/">Michael Sedlmair</a>
+			<a href="http://correll.io">Michael Correll</a>
+			<a href="https://www.gicentre.net/jsndyks">Jason Dykes</a>
+			<a href="https://noeskasmit.com/">Noeska Smit</a>
+		</div>
+		<div class="conf">
+			alt.VIS 2021
+		</div>
+	</div>
+
+	<div class="thumb image"><div><a href="https://research.tableau.com/paper/untidy-data-unreasonable-effectiveness-tables"><img src="images/untidy.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
 			<a href="https://research.tableau.com/paper/untidy-data-unreasonable-effectiveness-tables">Untidy Data: The Unreasonable Effectiveness of Tables</a> &nbsp;
-	   <a href="https://research.tableau.com/sites/default/files/untidy-preprint.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Topic-Model-CHI.pdf' /></a>
+	   <a href="https://research.tableau.com/sites/default/files/untidy-preprint.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Untidy-Tables-VIS.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://www.sfu.ca/~lyn/">Lyn Bartram</a>,
