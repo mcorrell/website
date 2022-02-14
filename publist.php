@@ -42,11 +42,11 @@
 		</div>
 		<div class="authors">
 			<a href="https://www.artstation.com/tundratoucan">Gerrit J. Rijken</a>,
-			<a href="https://renecutura.eu/">Rene Cutura</a>
-			<a href="https://www.visus.uni-stuttgart.de/en/institute/team/Heyen/">Frank Heyen</a>
-			<a href="https://homepage.univie.ac.at/michael.sedlmair/">Michael Sedlmair</a>
-			<a href="http://correll.io">Michael Correll</a>
-			<a href="https://www.gicentre.net/jsndyks">Jason Dykes</a>
+			<a href="https://renecutura.eu/">Rene Cutura</a>,
+			<a href="https://www.visus.uni-stuttgart.de/en/institute/team/Heyen/">Frank Heyen</a>,
+			<a href="https://homepage.univie.ac.at/michael.sedlmair/">Michael Sedlmair</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://www.gicentre.net/jsndyks">Jason Dykes</a>,
 			<a href="https://noeskasmit.com/">Noeska Smit</a>
 		</div>
 		<div class="conf">
