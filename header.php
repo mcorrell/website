@@ -5,7 +5,7 @@
 
   <div id="headerText">
     <div>Michael Correll</div>
-    <div>Senior Research Staff</div>
+    <div>Lead Research Staff</div>
     <div>Tableau Research</div>
   </div>
   <div id="logo">

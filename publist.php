@@ -1,5 +1,24 @@
 <div class='results list'>
-	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/untidy-preprint.pdf"><img src="images/bullshit.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/vis%20rec%20rec.pdf"><img src="images/visrec.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://research.tableau.com/paper/recommendations-visualization-recommendations-exploring-preferences-and-priorities-public">Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health</a> &nbsp;
+		 <a href="https://research.tableau.com/sites/default/files/vis%20rec%20rec.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-Vis-Rec-Rec-CHI.pdf' /></a>
+		</div>
+		<div class="authors">
+			Calvin Bao,
+			Siyao Li,
+			Sarah Flores,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://homes.cs.washington.edu/~leibatt/">Leilani Battle</a>
+		</div>
+		<div class="conf">
+			CHI 2022
+		</div>
+	</div>
+
+	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/altvis-bullshit_0.pdf"><img src="images/bullshit.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
@@ -44,7 +63,7 @@
 		</div>
 		<div class="authors">
 			<a href="https://www.sfu.ca/~lyn/">Lyn Bartram</a>,
-			<a href="http://correll.io">Michael Correll</a>
+			<a href="http://correll.io">Michael Correll</a>,
 			<a href="https://www.melanietory.com/">Melanie Tory</a>
 		</div>
 		<div class="conf">
@@ -100,7 +119,7 @@
 		<a href="http://www.rzehrung.name/">Rachael Zehrung</a>,
 		<a href="https://www.linkedin.com/in/asinghal084">Astha Singhal</a>,
 		<a href="http://correll.io">Michael Correll</a>,
-		<a href="https://www.cs.umd.edu/~leilani/">Leilani Battle</a>
+		<a href="https://homes.cs.washington.edu/~leibatt/">Leilani Battle</a>
 	</div>
 	<div class="conf">
 		CHI 2021
