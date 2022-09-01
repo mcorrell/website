@@ -7,7 +7,7 @@
 		 <a href="https://research.tableau.com/sites/default/files/beliv-rigor.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-BELIV-rigor.pdf' /></a>
 		</div>
 		<div class="authors">
-			<a href="http://correll.io">Michael Correll</a>,
+			<a href="http://correll.io">Michael Correll</a>
 		</div>
 		<div class="conf">
 			BELIV 2022
