@@ -1,4 +1,36 @@
 <div class='results list'>
+	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/beliv-rigor.pdf"><img src="images/progress.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://research.tableau.com/paper/are-we-making-progress-visualization-research">Are We Making Progress in Visualization Research?</a> &nbsp;
+		 <a href="https://research.tableau.com/sites/default/files/beliv-rigor.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-BELIV-rigor.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="http://correll.io">Michael Correll</a>,
+		</div>
+		<div class="conf">
+			BELIV 2022
+		</div>
+	</div>
+
+	<div class="thumb image"><div><a href="https://arxiv.org/pdf/2207.07727.pdf"><img src="images/oscar.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/abs/2207.07727">OSCAR: A Semantic-based Data Binning Approach</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2207.07727.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-Vis-OSCAR.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://www.linkedin.com/in/vidya-setlur-2740575">Vidya Setlur</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://www.linkedin.com/in/sarah-battersby-783a613">Sarah Battersby</a>
+		</div>
+		<div class="conf">
+			IEEE VIS Short Papers, 2022
+		</div>
+	</div>
+
 	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/vis%20rec%20rec.pdf"><img src="images/visrec.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
