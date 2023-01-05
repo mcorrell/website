@@ -9,7 +9,7 @@
     <div>Information Visualization</div>
   </div>
   <div id="logo">
-    <a href="./index.php"><img title="Tableau" src="images/blogo.png" height="80" alt="Tableau Software logo" class="logoImg"/></a>
+    <a href="./index.php"><img title="Birdbassador" src="images/blogo.png" alt="Toucan in formal dress"/></a>
   </div>
 </div>
 
