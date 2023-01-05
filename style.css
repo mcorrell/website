@@ -54,6 +54,11 @@ h3{
   margin-right: 40px;
 }
 
+#logoImg{
+  border-radius: 50%;
+  max-height: 80px;
+}
+
 #menu {
   float:left;
   width: 100%;

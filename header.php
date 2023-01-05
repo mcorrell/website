@@ -5,11 +5,11 @@
 
   <div id="headerText">
     <div>Michael Correll</div>
-    <div>Lead Research Staff</div>
-    <div>Tableau Research</div>
+    <div>Researcher</div>
+    <div>Information Visualization</div>
   </div>
   <div id="logo">
-    <a href="./index.php"><img title="Tableau" src="images/blogo.png" height="80" alt="Tableau Software logo" /></a>
+    <a href="./index.php"><img title="Tableau" src="images/blogo.png" height="80" alt="Tableau Software logo" class="logoImg"/></a>
   </div>
 </div>
 
