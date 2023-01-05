@@ -16,12 +16,16 @@
     </p>
 
     <p>
-      I am currently a research scientist at <a href="https://research.tableau.com/">Tableau Software</a>, where I work in the area of <b>information visualization</b>. I am particularly interested in the ethical, accurate, and responsible communication of data,
+      I am a researcher in the area of <b>information visualization</b>. I am particularly interested in the ethical, accurate, and responsible communication of data,
       but I am also interested in graphical perception, text analytics, statistical graphics, and uncertainty visualization.
     </p>
 
     <p>
-      I was a postdoc at the <a href="http://idl.cs.washington.edu">UW Interactive Data Lab</a> at the <a href="http://cs.washington.edu">University of Washington</a> Department of Computer Science, supervised by  <a href="http://homes.cs.washington.edu/~jheer">Jeff Heer</a>.
+      I was formerly a research scientist at <a href="https://research.tableau.com/">Tableau Software</a>
+    </p>
+
+    <p>
+      Prior to Tableau, I was a postdoc at the <a href="http://idl.cs.washington.edu">UW Interactive Data Lab</a> at the <a href="http://cs.washington.edu">University of Washington</a> Department of Computer Science, supervised by  <a href="http://homes.cs.washington.edu/~jheer">Jeff Heer</a>.
     </p>
 
     <p>
