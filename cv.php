@@ -1,13 +1,14 @@
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, information visualization" />
-<title>Michael Correll</title>
-<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+  <meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, information visualization" />
+  <title>Michael Correll</title>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
-<?php
-include('header.php');
-?>
+  <?php
+  include('header.php');
+  ?>
 
 <div id="container">
 	<p>Click <a href="./cv.pdf">here</a> for pdf version.
