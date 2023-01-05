@@ -21,7 +21,7 @@
     </p>
 
     <p>
-      I was formerly a research scientist at <a href="https://research.tableau.com/">Tableau Software</a>
+      I was formerly a research scientist at <a href="https://research.tableau.com/">Tableau Software</a>.
     </p>
 
     <p>
