@@ -1,4 +1,4 @@
 <div id="footer">
-<p>Email: mcorrell_at_tableau.com</p>
-<p>Last updated 14 Feb 2022</p>
+<p>Email: michael.a.correll_at_gmail.com</p>
+<p>Last updated 04 Jan 2023</p>
 </div>
