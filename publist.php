@@ -1,5 +1,5 @@
 <div class='results list'>
-	<div class="thumb image"><div><a href="https://sci.utah.edu/~vdl/papers/2023_chi_troubling.pdf"><img src="images/progress.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://sci.utah.edu/~vdl/papers/2023_chi_troubling.pdf"><img src="images/care.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
