@@ -165,6 +165,11 @@ h3{
   color: #422170;
 }
 
+.doc {
+  position: relative;
+  top: 5px;
+}
+
 a:link{
   color: #6733B0;
   text-decoration: none;
