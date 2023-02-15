@@ -1,4 +1,23 @@
 <div class='results list'>
+	<div class="thumb image"><div><a href="https://sci.utah.edu/~vdl/papers/2023_chi_troubling.pdf"><img src="images/progress.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://vdl.sci.utah.edu/publications/2023_chi_troubling/">Troubling Collaboration: Matters of Care for Visualization Design Study</a> &nbsp;
+		 <a href="https://sci.utah.edu/~vdl/papers/2023_chi_troubling.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-CHI-care.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://gotdairyya.github.io/">Derya Akbaba</a>,
+			<a href="https://www.devinlange.com/">Devin Lange</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://vdl.sci.utah.edu/team/lex/">Alexander Lex</a>,
+			<a href="https://miriah.github.io/">Miriah Meyer</a>
+		</div>
+		<div class="conf">
+			CHI 2023
+		</div>
+	</div>
+
 	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/beliv-rigor.pdf"><img src="images/progress.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
