@@ -146,6 +146,7 @@ h3{
   margin-right: auto;
   max-width: 70px;
   max-height: 37px;
+  border: 2px solid;
 }
 
 .thumb img:hover{
