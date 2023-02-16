@@ -145,8 +145,11 @@ h3{
   margin-left: auto;
   margin-right: auto;
   max-width: 70px;
-  max-height: 70px;
-  box-shadow: 0 0 20px #666;
+  max-height: 37px;
+}
+
+.thumb img:hover{
+    box-shadow: 0 0 10px;
 }
 
 .ref{
