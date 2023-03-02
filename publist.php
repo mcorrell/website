@@ -18,12 +18,12 @@
 		</div>
 	</div>
 
-	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/beliv-rigor.pdf"><img src="images/progress.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://osf.io/nzpka/"><img src="images/progress.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
-			<a href="https://research.tableau.com/paper/are-we-making-progress-visualization-research">Are We Making Progress in Visualization Research?</a> &nbsp;
-		 <a href="https://research.tableau.com/sites/default/files/beliv-rigor.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-BELIV-rigor.pdf' /></a>
+			<a href="https://osf.io/nzpka/">Are We Making Progress in Visualization Research?</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2208.11810.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-BELIV-rigor.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="http://correll.io">Michael Correll</a>
@@ -33,7 +33,7 @@
 		</div>
 	</div>
 
-	<div class="thumb image"><div><a href="https://arxiv.org/pdf/2207.07727.pdf"><img src="images/oscar.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://arxiv.org/abs/2207.07727"><img src="images/oscar.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
@@ -50,12 +50,12 @@
 		</div>
 	</div>
 
-	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/vis%20rec%20rec.pdf"><img src="images/visrec.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://arxiv.org/abs/2202.01335"><img src="images/visrec.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
-			<a href="https://research.tableau.com/paper/recommendations-visualization-recommendations-exploring-preferences-and-priorities-public">Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health</a> &nbsp;
-		 <a href="https://research.tableau.com/sites/default/files/vis%20rec%20rec.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-Vis-Rec-Rec-CHI.pdf' /></a>
+			<a href="https://arxiv.org/abs/2202.01335">Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2202.01335.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2022-Vis-Rec-Rec-CHI.pdf' /></a>
 		</div>
 		<div class="authors">
 			Calvin Bao,
@@ -69,12 +69,12 @@
 		</div>
 	</div>
 
-	<div class="thumb image"><div><a href="https://research.tableau.com/sites/default/files/altvis-bullshit_0.pdf"><img src="images/bullshit.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://arxiv.org/abs/2109.12975"><img src="images/bullshit.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
-			<a href="https://research.tableau.com/paper/towards-theory-bullshit-visualization">Towards a Theory of Bullshit Visualization</a> &nbsp;
-		 <a href="https://research.tableau.com/sites/default/files/altvis-bullshit_0.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Bullshit-Vis-VIS.pdf' /></a>
+			<a href="https://arxiv.org/abs/2109.12975">Towards a Theory of Bullshit Visualization</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2109.12975.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Bullshit-Vis-VIS.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="http://correll.io">Michael Correll</a>
@@ -84,12 +84,12 @@
 		</div>
 	</div>
 
-	<div class="thumb image"><div><a href="https://research.tableau.com/paper/illegible-semantics-exploring-design-space-metal-logos"><img src="images/metal.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://noeska.github.io/illegiblesemantics/"><img src="images/metal.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
-			<a href="https://research.tableau.com/paper/illegible-semantics-exploring-design-space-metal-logos">Illegible Semantics: Exploring the Design Space of Metal Logos</a> &nbsp;
-	   <a href="https://research.tableau.com/sites/default/files/MetalVis.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Untidy-Tables-VIS.pdf' /></a>
+			<a href="https://noeska.github.io/illegiblesemantics/">Illegible Semantics: Exploring the Design Space of Metal Logos</a> &nbsp;
+	   <a href="https://arxiv.org/pdf/2109.01688.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Untidy-Tables-VIS.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://www.artstation.com/tundratoucan">Gerrit J. Rijken</a>,
@@ -105,12 +105,12 @@
 		</div>
 	</div>
 
-	<div class="thumb image"><div><a href="https://research.tableau.com/paper/untidy-data-unreasonable-effectiveness-tables"><img src="images/untidy.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://arxiv.org/abs/2106.15005"><img src="images/untidy.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
-			<a href="https://research.tableau.com/paper/untidy-data-unreasonable-effectiveness-tables">Untidy Data: The Unreasonable Effectiveness of Tables</a> &nbsp;
-	   <a href="https://research.tableau.com/sites/default/files/untidy-preprint.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Untidy-Tables-VIS.pdf' /></a>
+			<a href="https://arxiv.org/abs/2106.15005">Untidy Data: The Unreasonable Effectiveness of Tables</a> &nbsp;
+	   <a href="https://arxiv.org/pdf/2106.15005.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Untidy-Tables-VIS.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://www.sfu.ca/~lyn/">Lyn Bartram</a>,
@@ -143,12 +143,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div><a href="https://research.tableau.com/paper/user-ex-machina-simulation-design-probe-human-loop-text-analytics"><img src="images/topic-model.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://www.tableau.com/research/publications/user-ex-machina-simulation-design-probe-human-loop-text-analytics"><img src="images/topic-model.png" alt="Paper teaser image" /></a></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/user-ex-machina-simulation-design-probe-human-loop-text-analytics">User Ex Machina: Simulation as a Design Probe in Human-in-the-Loop Text Analytics</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/topic-model.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Topic-Model-CHI.pdf' /></a>
+		<a href="https://www.tableau.com/research/publications/user-ex-machina-simulation-design-probe-human-loop-text-analytics">User Ex Machina: Simulation as a Design Probe in Human-in-the-Loop Text Analytics</a> &nbsp;
+		<a href="https://www.tableau.com/sites/default/files/2023-01/topic-model.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Topic-Model-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="https://amcrisan.github.io/">Anamaria Crisan</a>,
@@ -159,12 +159,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div><a href="https://research.tableau.com/paper/vis-ex-machina-analysis-trust-human-versus-algorithmically-generated-visualization"><img src="images/recommendation-bias.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2101.04251"><img src="images/recommendation-bias.png" alt="Paper teaser image" /></a></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/vis-ex-machina-analysis-trust-human-versus-algorithmically-generated-visualization">Vis Ex Machina: An Analysis of Trust in Human versus Algorithmically Generated Visualization Recommendations</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/vis-bias.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Recommendation-Bias-CHI.pdf' /></a>
+		<a href="https://arxiv.org/abs/2101.04251">Vis Ex Machina: An Analysis of Trust in Human versus Algorithmically Generated Visualization Recommendations</a> &nbsp;
+		<a href="https://arxiv.org/pdf/2101.04251.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Recommendation-Bias-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="http://www.rzehrung.name/">Rachael Zehrung</a>,
@@ -177,12 +177,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div><a href="https://research.tableau.com/paper/why-shouldnt-all-charts-be-scatter-plots-beyond-precision-driven-visualizations"><img src="images/beyond.png" alt="Paper teaser image"/></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2008.11310"><img src="images/beyond.png" alt="Paper teaser image"/></a></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/why-shouldnt-all-charts-be-scatter-plots-beyond-precision-driven-visualizations">Why Shouldn't All Charts Be Scatter Plots? Beyond Precision-Driven Visualizations</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/Beyond_Visual_Variables.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Scatter-VIS.pdf' /></a>
+		<a href="https://arxiv.org/abs/2008.11310">Why Shouldn't All Charts Be Scatter Plots? Beyond Precision-Driven Visualizations</a> &nbsp;
+		<a href="https://arxiv.org/pdf/2008.11310.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Scatter-VIS.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="http://enrico.bertini.io/">Enrico Bertini</a>,
@@ -194,12 +194,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div><a href="https://research.tableau.com/paper/what-do-we-actually-learn-evaluations-%E2%80%9Cheroic-era%E2%80%9D-visualization"><img src="images/heroic.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2008.11250"><img src="images/heroic.png" alt="Paper teaser image" /></a></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/what-do-we-actually-learn-evaluations-%E2%80%9Cheroic-era%E2%80%9D-visualization">What Can We Actually Learn from Evaluations in the "Heroic Era" of Visualization?</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/BELIV_CancerVis.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Heroic-BELIV.pdf' /></a>
+		<a href="https://arxiv.org/abs/2008.11250">What Can We Actually Learn from Evaluations in the "Heroic Era" of Visualization?</a> &nbsp;
+		<a href="https://arxiv.org/pdf/2008.11250.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Heroic-BELIV.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="http://correll.io">Michael Correll</a>
@@ -214,7 +214,7 @@
 <div class="ref">
 	<div class="title">
 		<a href="https://github.com/tableau/Visualization-Linting/">Surfacing Visualization Mirages</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/linting-cameraready.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Mirages-CHI.pdf' /></a>
+		<a href="https://arxiv.org/pdf/2001.02316.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Mirages-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="https://www.mcnutt.in/">Andrew McNutt</a>,
@@ -231,7 +231,7 @@
 <div class="ref">
 	<div class="title">
 		<a href="https://osf.io/gz98h/">Truncating the Y-Axis: Threat or Menace?</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/CHI-truncation-embedded.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Truncation-CHI.pdf' /></a>
+		<a href="https://arxiv.org/pdf/1907.02035.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2020-Truncation-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="http://correll.io">Michael Correll</a>,
@@ -248,7 +248,7 @@
 <div class="ref">
 	<div class="title">
 		<a href="http://vis-tarot.github.io/">Divining Insights: Visual Analytics Through Cartomancy</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/altchi-tarot-cameraready.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='altCHI-preprint.pdf' /></a>
+		<a href="https://www.tableau.com/sites/default/files/2023-01/altchi-tarot-cameraready.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='altCHI-preprint.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="https://www.mcnutt.in/">Andrew McNutt</a>,
@@ -265,7 +265,7 @@
 <div class="ref">
 	<div class="title">
 		<a href="https://osf.io/jwbn2/">VisuaLint: Sketchy In Situ Annotations of Chart Construction Errors</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/eurovis2020-linting-camera.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
+		<a href="http://vis.csail.mit.edu/pubs/visualint.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="https://skitree.github.io/aspenhopkins/">Aspen K. Hopkins</a>,
@@ -277,12 +277,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div><a href="https://research.tableau.com/paper/improving-robustness-scagnostics"><img src="images/scagnostics.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://www.tableau.com/research/publications/improving-robustness-scagnostics"><img src="images/scagnostics.png" alt="Paper teaser image" /></a></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/improving-robustness-scagnostics">Improving the Robustness of Scagnostics</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/vis-accepted-version.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
+		<a href="https://www.tableau.com/research/publications/improving-robustness-scagnostics">Improving the Robustness of Scagnostics</a> &nbsp;
+		<a href="https://visvar.github.io/pdf/wang2020scag.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2019-Scagnostics-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="http://www.yunhaiwang.net/">Yunhai Wang</a>,
@@ -315,12 +315,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div><a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research"><img src="images/ethics.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/1811.07271"><img src="images/ethics.png" alt="Paper teaser image" /></a></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Dimensions of Visualization Research</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/CHI-cameraready.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2019-Ethics-CHI.pdf' /></a>
+		<a href="https://arxiv.org/abs/1811.07271">Ethical Dimensions of Visualization Research</a> &nbsp;
+		<a href="https://arxiv.org/pdf/1811.07271.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2019-Ethics-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="http://correll.io">Michael Correll</a>
@@ -367,12 +367,12 @@
 	</div>
 </div>
 
-<div class="thumb image"><div><a href="https://alper.datav.is/publications/dashboards/"><img src="images/dashboards.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://www.tableau.com/research/publications/what-do-we-talk-about-when-we-talk-about-dashboards"><img src="images/dashboards.png" alt="Paper teaser image" /></a></div>
 </div>
 <div class="ref">
 	<div class="title">
-		<a href="https://research.tableau.com/paper/what-do-we-talk-about-when-we-talk-about-dashboards">What Do We Talk About When We Talk About Dashboards?</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/DashboardsConspiracy_final.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2018-Dashboards-InfoVis.pdf' /></a>
+		<a href="https://www.tableau.com/research/publications/what-do-we-talk-about-when-we-talk-about-dashboards">What Do We Talk About When We Talk About Dashboards?</a> &nbsp;
+		<a href="https://www.tableau.com/sites/default/files/2023-01/DashboardsConspiracy_final.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2018-Dashboards-InfoVis.pdf' /></a>
 	</div>
 	<div class="authors">
 		<a href="https://alper.datav.is/">Alper Sarikaya</a>,
