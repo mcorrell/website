@@ -14,7 +14,7 @@ include('header.php');
 <p>I am currently working on a number of research projects dealing with information visualization, with applications in fields like the digital humanities, virology, and psychology. Some example research topics include:</p>
 <ul>
 
-<li /><p><b>Ethical and "Black Hat" Visualization:</b> visualizations are sometimes our first, most impactful, or only interaction with data. This makes visualizations potentially very powerful. Wherever there is power, there is a potential for harm and misuse. I am interested in the ethical considations around visualization, both in terms of how specific visualizations can mislead or bias, but in an overall sense of designing best practices for visualization designers. This work involves reflections on the state of the field, case studies of specific systems, and empirical studies on visualization designs.</p>
+<li /><p><b>Ethical and Deceptive Visualization:</b> visualizations are sometimes our first, most impactful, or only interaction with data. This makes visualizations potentially very powerful. Wherever there is power, there is a potential for harm and misuse. I am interested in the ethical considations around visualization, both in terms of how specific visualizations can mislead or bias, but in an overall sense of designing best practices for visualization designers. This work involves reflections on the state of the field, case studies of specific systems, and empirical studies on visualization designs.</p>
 <p><b>Example papers:</b><br/>
 <a href="https://research.tableau.com/paper/ethical-dimensions-visualization-research">Ethical Dimensions of Visualization Research</a><br/>
 <a href="https://osf.io/gz98h/">Truncating the Y-Axis: Threat or Menace?</a>

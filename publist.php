@@ -1,4 +1,19 @@
 <div class='results list'>
+	<div class="thumb image"><div><a href=""><img src="images/raincloud.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://observablehq.com/@mcorrell/raincloud-robustness"><i>Teru Teru Bōzu</i>: Defensive Raincloud Plots</a> &nbsp;
+		 <a href=""><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-EuroVis-raincloud.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="http://correll.io">Michael Correll</a>
+		</div>
+		<div class="conf">
+			EuroVis 2023, to Appear
+		</div>
+	</div>
+
 	<div class="thumb image"><div><a href="https://sci.utah.edu/~vdl/papers/2023_chi_troubling.pdf"><img src="images/care.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
@@ -50,6 +65,24 @@
 		</div>
 	</div>
 
+	<div class="thumb image"><div><a href="https://arxiv.org/pdf/2301.04717.pdf"><img src="images/bellcurves.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/pdf/2301.04717.pdf">Fitting Bell Curves to Data Distributions
+using Visualization</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2301.04717.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-TVCG-bellcurves.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://ischool.umd.edu/directory/eric-newburger/">Eric Newburger</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://sites.umiacs.umd.edu/elm/">Niklas Elmqvist</a>
+		</div>
+		<div class="conf">
+			TVCG, 2021
+		</div>
+	</div>
+
 	<div class="thumb image"><div><a href="https://arxiv.org/abs/2202.01335"><img src="images/visrec.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
@@ -66,6 +99,24 @@
 		</div>
 		<div class="conf">
 			CHI 2022
+		</div>
+	</div>
+
+	<div class="thumb image"><div><a href="https://link.springer.com/article/10.3758/s13428-020-01520-2"><img src="images/flexplot.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://link.springer.com/article/10.3758/s13428-020-01520-2">A graph for every analysis: Mapping visuals onto common analyses using flexplot</a> &nbsp;
+		 <a href="https://link.springer.com/article/10.3758/s13428-020-01520-2"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Flexplot.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://csm.rowan.edu/departments/psychology/facultystaff/psychology_full_part/fife.html">Dustin A. Fife</a>,
+			<a href="https://www.linkedin.com/in/gabrielle-longo-b7a07b158">Gabrielle Longo</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://csm.rowan.edu/departments/psychology/facultystaff/psychology_full_part/tremoulet.html">Patrice D. Tremoulet</a>
+		</div>
+		<div class="conf">
+			Behavior Research Methods, 2021
 		</div>
 	</div>
 
