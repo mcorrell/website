@@ -1,10 +1,10 @@
 <div class='results list'>
-	<div class="thumb image"><div><a href=""><img src="images/raincloud.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://arxiv.org/pdf/2303.17709.pdf"><img src="images/raincloud.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
 			<a href="https://observablehq.com/@mcorrell/raincloud-robustness"><i>Teru Teru Bōzu</i>: Defensive Raincloud Plots</a> &nbsp;
-		 <a href=""><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-EuroVis-raincloud.pdf' /></a>
+		 <a href="https://arxiv.org/pdf/2303.17709.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-EuroVis-raincloud.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="http://correll.io">Michael Correll</a>
