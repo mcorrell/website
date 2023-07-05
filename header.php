@@ -9,7 +9,7 @@
     <div>Roux Institute, Northeastern University</div>
   </div>
   <div id="logo">
-    <a href="./index.php"><img title="Birdbassador" src="images/blogo.png" alt="Toucan in formal dress"/></a>
+    <a href="./index.php"><img title="Northeastern" src="images/nlogo.png" alt="Northeastern University Logo"/></a>
   </div>
 </div>
 
