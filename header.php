@@ -9,7 +9,7 @@
     <div>Roux Institute, Northeastern University</div>
   </div>
   <div id="logo">
-    <a href="./index.php"><img title="Northeastern" src="images/nlogo.png" alt="Northeastern University Logo"/></a>
+    <a href="https://roux.northeastern.edu/"><img title="Northeastern" src="images/nlogo.jpeg" alt="Northeastern University Logo"/></a>
   </div>
 </div>
 
