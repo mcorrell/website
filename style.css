@@ -6,7 +6,7 @@ body{
 }
 
 h1{
-  color: #422170;
+  color: #D41B2C;
   font-size: 36px;
   font-family: Futura, sans-serif;
   font-weight: bold;
@@ -33,7 +33,7 @@ h3{
 }
 
 #headerText div:first-child{
-  color: #422170;
+  color: #D41B2C;
   font-size: 36px;
   font-family: Futura, sans-serif;
   font-weight: bold;
@@ -64,7 +64,7 @@ h3{
   width: 100%;
   display: flex;
   align-items: center;
-  background: linear-gradient(to right, #422170 60%, rgba(255,255,255,0));
+  background: linear-gradient(to right, #62B6D0 60%, rgba(255,255,255,0));
   font-family: Futura, sans-serif;
 }
 
@@ -76,18 +76,18 @@ h3{
 #menu a{
   text-transform: uppercase;
   font-size: 14 px;
-  color: #FFFFFF;
+  color: #262626;
   text-decoration: none;
   text-align: center;
 }
 
 #menu div:hover {
-  color: #FFFFFF;
-  background-color: #8C46F0;
+  color: #262626;
+  background-color: #C6EFFC;
 }
 
 #menu .active{
-  background-color: #6733B0;
+  background-color: #A0E0EF;
 }
 
 #container {
@@ -166,7 +166,7 @@ h3{
 }
 
 .title a{
-  color: #422170;
+  color: #D41B2C;
 }
 
 .doc {
@@ -175,12 +175,12 @@ h3{
 }
 
 a:link{
-  color: #6733B0;
+  color: #A0E0EF;
   text-decoration: none;
 }
 
 a:visited{
-  color: #6733B0;
+  color: #A0E0EF;
   text-decoration: none;
 }
 

@@ -5,8 +5,8 @@
 
   <div id="headerText">
     <div>Michael Correll</div>
-    <div>Researcher</div>
-    <div>Information Visualization</div>
+    <div>Research Associate Professor</div>
+    <div>Roux Institute, Northeastern University</div>
   </div>
   <div id="logo">
     <a href="./index.php"><img title="Birdbassador" src="images/blogo.png" alt="Toucan in formal dress"/></a>
