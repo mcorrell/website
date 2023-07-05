@@ -64,7 +64,7 @@ h3{
   width: 100%;
   display: flex;
   align-items: center;
-  background: linear-gradient(to right, #62B6D0 60%, rgba(255,255,255,0));
+  background: linear-gradient(to right, #D41B2C 60%, rgba(255,255,255,0));
   font-family: Futura, sans-serif;
 }
 
@@ -82,12 +82,13 @@ h3{
 }
 
 #menu div:hover {
-  color: #262626;
-  background-color: #C6EFFC;
+  color: #1D1D1D;
+  background-color: #D41B2C;
 }
 
 #menu .active{
-  background-color: #A0E0EF;
+  color: #FFFFFF;
+  background-color: #D41B2C;
 }
 
 #container {
@@ -175,12 +176,12 @@ h3{
 }
 
 a:link{
-  color: #A0E0EF;
+  color: #D41B2C;
   text-decoration: none;
 }
 
 a:visited{
-  color: #A0E0EF;
+  color: #D41B2C;
   text-decoration: none;
 }
 
