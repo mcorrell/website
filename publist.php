@@ -4,13 +4,13 @@
 	<div class="ref">
 		<div class="title">
 			<a href="https://observablehq.com/@mcorrell/raincloud-robustness"><i>Teru Teru Bōzu</i>: Defensive Raincloud Plots</a> &nbsp;
-		 <a href="https://arxiv.org/pdf/2303.17709.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-EuroVis-raincloud.pdf' /></a>
+		 <a href="https://arxiv.org/pdf/2303.17709.pdfjudg"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-EuroVis-raincloud.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="http://correll.io">Michael Correll</a>
 		</div>
 		<div class="conf">
-			EuroVis 2023, to Appear
+			EuroVis 2023
 		</div>
 	</div>
 
