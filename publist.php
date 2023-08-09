@@ -10,7 +10,7 @@
 			<a href="https://www.linkedin.com/in/vidya-setlur-2740575">Vidya Setlur</a>,
 			<a href="http://correll.io">Michael Correll</a>,
 			<a href="https://arvindsatya.com/">Arvind Satyanarayan</a>,
-			<a href="https://www.melanietory.com/">Melanie Tory</a>,
+			<a href="https://www.melanietory.com/">Melanie Tory</a>
 		</div>
 		<div class="conf">
 			IEEE VIS 2023, to appear
