@@ -1,10 +1,28 @@
 <div class='results list'>
+	<div class="thumb image"><div><a href=""><img src="images/grice.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="">Heuristics for Supporting Cooperative Dashboard Design</a> &nbsp;
+		 <a href=""><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-Vis-grice.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://www.linkedin.com/in/vidya-setlur-2740575">Vidya Setlur</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://arvindsatya.com/">Arvind Satyanarayan</a>,
+			<a href="https://www.melanietory.com/">Melanie Tory</a>,
+		</div>
+		<div class="conf">
+			IEEE VIS 2023, to appear
+		</div>
+	</div>
+
 	<div class="thumb image"><div><a href="https://arxiv.org/pdf/2303.17709.pdf"><img src="images/raincloud.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
 			<a href="https://observablehq.com/@mcorrell/raincloud-robustness"><i>Teru Teru Bōzu</i>: Defensive Raincloud Plots</a> &nbsp;
-		 <a href="https://arxiv.org/pdf/2303.17709.pdfjudg"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-EuroVis-raincloud.pdf' /></a>
+		 <a href="https://arxiv.org/pdf/2303.17709.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-EuroVis-raincloud.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="http://correll.io">Michael Correll</a>
