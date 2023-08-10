@@ -1,10 +1,10 @@
 <div class='results list'>
-	<div class="thumb image"><div><a href=""><img src="images/grice.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://arxiv.org/pdf/2308.04514.pdf"><img src="images/grice.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
 		<div class="title">
-			<a href="">Heuristics for Supporting Cooperative Dashboard Design</a> &nbsp;
-		 <a href=""><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-Vis-grice.pdf' /></a>
+			<a href="https://arxiv.org/pdf/2308.04514.pdf">Heuristics for Supporting Cooperative Dashboard Design</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2308.04514.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2023-Vis-grice.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://www.linkedin.com/in/vidya-setlur-2740575">Vidya Setlur</a>,
