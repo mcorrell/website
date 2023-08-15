@@ -16,8 +16,8 @@
     </p>
 
     <p>
-      I am a research professor at Northeastern University Khoury College of Computing and a member of the Roux Institute. I work in the area of <b>information visualization</b>. I am particularly interested in the ethical, accurate, and responsible communication of data,
-      but I am also interested in graphical perception, text analytics, statistical graphics, and uncertainty visualization.
+      I am a research professor at Northeastern University's <a href="https://www.khoury.northeastern.edu/">Khoury College of Computing</a> and a member of the <a href="https://roux.northeastern.edu/">Roux Institute</a>. I work in the area of <b>information visualization</b> along with others in NEU's <a href="https://vis.khoury.northeastern.edu/">vis lab</a>.
+      I am particularly interested in the ethical, accurate, and responsible communication of data, but I am also interested in graphical perception, text analytics, statistical graphics, and uncertainty visualization. 
     </p>
 
     <p>
