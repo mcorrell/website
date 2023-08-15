@@ -18,10 +18,10 @@
  $page = basename($url,".php");
 ?>
 
-<div id="menu">
+<nav id="menu">
       <a href="./index.php"><div class="<?php if($page=='index'||$page=='~mcorrell'){ echo 'active';} ?>">Home</div></a>
       <a href="./publications.php"><div class="<?php if($page=='publications'){ echo 'active';} ?>">Publications</div></a>
       <a href="./research.php"><div class="<?php if($page=='research'){ echo 'active';} ?>">Research</div></a>
       <a href="./teaching.php"><div class="<?php if($page=='teaching'){ echo 'active';} ?>">Teaching</div></a>
       <a href="./cv.php"><div class="<?php if($page=='cv'){ echo 'active';} ?>">CV</div></a>
-</div>
+</nav>

@@ -1,4 +1,4 @@
 <div id="footer">
-<p>Email: michael.a.correll_at_gmail.com</p>
-<p>Last updated 05 Jul 2023</p>
+<p>Email: m.correll_at_northeastern.edu</p>
+<p>Last updated 15 August 2023</p>
 </div>

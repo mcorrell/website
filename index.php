@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, information visualization" />
+  <meta name="keywords" content="Michael Correll, visualization, portland, maine, northeastern, seattle, washingtion, madison, tableau, information visualization" />
   <title>Michael Correll</title>
   <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
@@ -12,11 +12,11 @@
 
   <div id="container">
     <p>
-      <img class="ribbon" src="./images/ribbon.png" />
+      <img class="ribbon" src="./images/ribbon.png" alt="sample image of visualization projects"/>
     </p>
 
     <p>
-      I am a researcher in the area of <b>information visualization</b>. I am particularly interested in the ethical, accurate, and responsible communication of data,
+      I am a research professor at Northeastern University Khoury College of Computing and a member of the Roux Institute. I work in the area of <b>information visualization</b>. I am particularly interested in the ethical, accurate, and responsible communication of data,
       but I am also interested in graphical perception, text analytics, statistical graphics, and uncertainty visualization.
     </p>
 
