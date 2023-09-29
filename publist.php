@@ -196,7 +196,7 @@ using Visualization</a> &nbsp;
 <div class="ref">
 	<div class="title">
 		<a href="http://www.yunhaiwang.net/CHI2021/orientation/index.html">Data-Driven Mark Orientation for Trend Estimation in Scatterplots</a> &nbsp;
-		<a href="https://research.tableau.com/sites/default/files/orientation-chi.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Data-Driven-Marks-CHI.pdf' /></a>
+		<a href="http://www.yunhaiwang.net/CHI2021/orientation/files/orientation-chi.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2021-Data-Driven-Marks-CHI.pdf' /></a>
 	</div>
 	<div class="authors">
 		Tingting Liu,
@@ -447,7 +447,7 @@ using Visualization</a> &nbsp;
 		<a href="https://alper.datav.is/">Alper Sarikaya</a>,
 		<a href="http://correll.io">Michael Correll</a>,
 		<a href="https://www.sfu.ca/~lyn/">Lyn Bartram</a>,
-		<a href="https://research.tableau.com/user/melanie-tory">Melanie Tory</a>,
+		<a href="https://roux.northeastern.edu/people/melanie-tory/">Melanie Tory</a>,
 		<a href="https://danyelfisher.info/">Danyel Fisher</a>
 	</div>
 	<div class="conf">
