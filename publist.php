@@ -13,7 +13,7 @@
 			<a href="https://www.melanietory.com/">Melanie Tory</a>
 		</div>
 		<div class="conf">
-			IEEE VIS 2023, to appear
+			IEEE VIS 2023
 		</div>
 	</div>
 
@@ -97,7 +97,7 @@ using Visualization</a> &nbsp;
 			<a href="https://sites.umiacs.umd.edu/elm/">Niklas Elmqvist</a>
 		</div>
 		<div class="conf">
-			TVCG, 2021
+			TVCG, 2022
 		</div>
 	</div>
 
