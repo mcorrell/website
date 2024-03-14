@@ -1,6 +1,6 @@
 <div class='results list'>
 <div class="thumb image"><div><a href="https://arxiv.org/pdf/2402.05014.pdf"><img src="images/anatomy.png" alt="Paper teaser image" /></a></div>
-	</div>
+</div>
 	<div class="ref">
 		<div class="title">
 			<a href="https://arxiv.org/pdf/2402.05014.pdf">When the Body Became Data: Historical Data Cultures and Anatomical Illustration</a> &nbsp;
