@@ -1,4 +1,40 @@
 <div class='results list'>
+<div class="thumb image"><div><a href="https://arxiv.org/pdf/2402.05014.pdf"><img src="images/anatomy.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/pdf/2402.05014.pdf">When the Body Became Data: Historical Data Cultures and Anatomical Illustration</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2402.05014.pdf"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-CHI-anatomy.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://www.laura-garrison.com/">Laura A. Garrison</a>
+		</div>
+		<div class="conf">
+			CHI 2024
+		</div>
+	</div>
+
+	<div class="thumb image"><div><a href="https://osf.io/preprints/osf/qa8dj"><img src="images/odds.png" alt="Paper teaser image" /></a></div>
+	</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://osf.io/xtsfz/">Odds and Insights: Decision Quality in Exploratory Data Analysis Under Uncertainty</a> &nbsp;
+		 <a href="https://osf.io/preprints/osf/qa8dj"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-CHI-odds.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://abhsarma.github.io/">Abhraneel Sarma</a>,
+			<a href="https://xiaoyingpu.github.io/">Xiaoying Pu</a>,
+			<a href="https://yccui.github.io/">Yuan Cui</a>,
+			<a href="https://cds.cdm.depaul.edu/teachers/eli-brown/">Eli T. Brown</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://www.mjskay.com/">Matthew Kay</a>
+		</div>
+		<div class="conf">
+			CHI 2024
+		</div>
+	</div>
+
 	<div class="thumb image"><div><a href="https://arxiv.org/pdf/2308.04514.pdf"><img src="images/grice.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
