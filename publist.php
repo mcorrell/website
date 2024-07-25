@@ -1,4 +1,22 @@
 <div class='results list'>
+
+<div class="thumb image"><div><a href="https://arxiv.org/pdf/2407.14042"><img src="images/dataguards.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/pdf/2407.14042">Data Guards: Challenges and Solutions for Fostering Trust in Data</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2407.14042"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-VIS-dataguards.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://nicksultanum.github.io/web/">Nicole Sultanum</a>,
+			<a href="https://www.linkedin.com/in/dennybromley/">Dennis Bromley</a>,
+			<a href="http://correll.io">Michael Correll</a>
+		</div>
+		<div class="conf">
+			IEEE VIS Short Papers, 2024
+		</div>
+	</div>
+
 <div class="thumb image"><div><a href="https://arxiv.org/pdf/2402.05014.pdf"><img src="images/anatomy.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
