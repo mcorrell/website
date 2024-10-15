@@ -512,7 +512,7 @@ using Visualization</a> &nbsp;
 		<a href="https://homepage.univie.ac.at/michael.sedlmair/">Michael Sedlmair</a>
 	</div>
 	<div class="conf">
-		IEEE VIS 2020
+		IEEE VIS 2019
 	</div>
 </div>
 
