@@ -63,7 +63,6 @@
 	<div class="ref">
 		<div class="title">
 			<a href="https://ieeevis.org/year/2024/program/poster_v-vis-posters-1100.html">Visual Stenography: Feature Recreation and Preservation in Sketches of Line Charts</a> &nbsp;
-		 <a href="https://ieeevis.org/year/2024/program/poster_v-vis-posters-1100.html"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-VIS-stenography.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://www.linkedin.com/in/rifataraproma">Rifat Ara Proma</a>,
@@ -97,7 +96,7 @@
 </div>
 	<div class="ref">
 		<div class="title">
-			<a href="https://kclpure.kcl.ac.uk/portal/en/publications/visualization-ethics-a-case-study-approach">Data Guards: Challenges and Solutions for Fostering Trust in Data</a> &nbsp;
+			<a href="https://kclpure.kcl.ac.uk/portal/en/publications/visualization-ethics-a-case-study-approach">Visualization Ethics: A Case Study Approach</a> &nbsp;
 		 <a href="https://kclpure.kcl.ac.uk/portal/en/publications/visualization-ethics-a-case-study-approach"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-DH-ethics.pdf' /></a>
 		</div>
 		<div class="authors">
