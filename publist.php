@@ -1,5 +1,81 @@
 <div class='results list'>
 
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2409.07465"><img src="images/dataguards.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/abs/2409.07465">Complexity as Design Material</a> &nbsp;
+		 <a href="https://arxiv.org/abs/2409.07465"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-BELIV-complexity.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://www.donau-uni.ac.at/en/florian.windhager">Florian Windhager</a>,
+			<a href="https://alfieabdulrahman.github.io/">Alfie Abdul-Rahman</a>,
+			<a href="https://www.markjanbludau.de/">Mark-Jan Bludau</a>,
+			<a href="https://nicolehengesbach.github.io/">Nicole Hengesbach</a>,
+			<a href="https://hlmqa.github.io/">Houda Lamqaddam</a>,
+			<a href="https://isabelmeirelles.com/">Isabel Meirelles</a>,
+			<a href="https://bspeckmann.win.tue.nl/">Bettina Speckmannn</a>,
+			<a href="http://correll.io">Michael Correll</a>
+		</div>
+		<div class="conf">
+			BELIV, 2024
+		</div>
+	</div>
+
+<div class="thumb image"><div><a href="https://osf.io/preprints/osf/d849a?view_only="><img src="images/telephone.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://osf.io/preprints/osf/d849a?view_only=">Tasks and Telephone: Understanding Barriers to Inference due to Issues in Experiment Design</a> &nbsp;
+		 <a href="https://osf.io/preprints/osf/d849a?view_only="><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-BELIV-telephone.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://abhsarma.github.io/">Abhraneel Sarma</a>,
+			<a href="https://mika-long.github.io/">Sheng Long</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://www.mjskay.com/">Matthew Kay</a>
+		</div>
+		<div class="conf">
+			BELIV, 2024
+		</div>
+	</div>
+
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2408.13418v1"><img src="images/emoji.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/abs/2408.13418v1">The Data-Wink Ratio: Emoji Encoder for Generating Semantically-Resonant Unit Charts</a> &nbsp;
+		 <a href="https://arxiv.org/abs/2408.13418v1"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-VIS-datawink.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://mattbrehmer.ca/">Matthew Brehmer</a>,
+			<a href="https://www.linkedin.com/in/vidya-setlur-2740575">Vidya Setlur</a>,
+			Zoe,
+			<a href="http://correll.io">Michael Correll</a>
+		</div>
+		<div class="conf">
+			Gen4DS, 2024
+		</div>
+	</div>
+
+<div class="thumb image"><div><a href="https://arxiv.org/pdf/2407.14042"><img src="images/steno.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/pdf/2407.14042">Visual Stenography: Feature Recreation and Preservation in Sketches of Line Charts</a> &nbsp;
+		 <a href="https://arxiv.org/pdf/2407.14042"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-VIS-stenography.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://www.linkedin.com/in/rifataraproma">Rifat Ara Proma</a>,
+			<a href="http://jiquadcs.com/">Ghulam Jilani Quadri,</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://cspaul.com/">Paul Rosen</a>
+		</div>
+		<div class="conf">
+			IEEE VIS Poster, 2024
+		</div>
+	</div>
+
 <div class="thumb image"><div><a href="https://arxiv.org/pdf/2407.14042"><img src="images/dataguards.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
@@ -14,6 +90,26 @@
 		</div>
 		<div class="conf">
 			IEEE VIS Short Papers, 2024
+		</div>
+	</div>
+
+<div class="thumb image"><div><a href="https://kclpure.kcl.ac.uk/portal/en/publications/visualization-ethics-a-case-study-approach"><img src="images/ethics-2.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://kclpure.kcl.ac.uk/portal/en/publications/visualization-ethics-a-case-study-approach">Data Guards: Challenges and Solutions for Fostering Trust in Data</a> &nbsp;
+		 <a href="https://kclpure.kcl.ac.uk/portal/en/publications/visualization-ethics-a-case-study-approach"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-DH-ethics.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/">Leonardo Impett</a>,
+			<a href="https://lklein.com/">Lauren Frederica Klein</a>,
+			<a href="https://fourcoffees.github.io/georgiapanagiotidou/">Georgia Panagiotidous</a>,
+			<a href="https://alfieabdulrahman.github.io/">Alfie Abdul-Rahman</a>,
+			<a href="https://geoffreyrockwell.com/">Geoffrey Rockwell</a>
+		</div>
+		<div class="conf">
+			Digital Humanities, 2024
 		</div>
 	</div>
 
@@ -865,7 +961,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		IEEE VIS Poster
+		IEEE VIS Poster, 2013
 	</div>
 </div>
 
@@ -1057,7 +1153,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		IEEE VIS Poster
+		IEEE VIS Poster, 2010
 	</div>
 </div>
 
