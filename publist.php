@@ -1,6 +1,6 @@
 <div class='results list'>
 
-<div class="thumb image"><div><a href="https://arxiv.org/abs/2409.07465"><img src="images/dataguards.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2409.07465"><img src="images/complexity.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
 		<div class="title">
@@ -58,12 +58,12 @@
 		</div>
 	</div>
 
-<div class="thumb image"><div><a href="https://arxiv.org/pdf/2407.14042"><img src="images/steno.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://ieeevis.org/year/2024/program/poster_v-vis-posters-1100.html"><img src="images/steno.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
 		<div class="title">
-			<a href="https://arxiv.org/pdf/2407.14042">Visual Stenography: Feature Recreation and Preservation in Sketches of Line Charts</a> &nbsp;
-		 <a href="https://arxiv.org/pdf/2407.14042"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-VIS-stenography.pdf' /></a>
+			<a href="https://ieeevis.org/year/2024/program/poster_v-vis-posters-1100.html">Visual Stenography: Feature Recreation and Preservation in Sketches of Line Charts</a> &nbsp;
+		 <a href="https://ieeevis.org/year/2024/program/poster_v-vis-posters-1100.html"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-VIS-stenography.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://www.linkedin.com/in/rifataraproma">Rifat Ara Proma</a>,
