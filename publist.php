@@ -1,5 +1,25 @@
 <div class='results list'>
 
+<div class="thumb image"><div><a href="https://ieeexplore.ieee.org/abstract/document/10745882"><img src="images/census.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://ieeexplore.ieee.org/abstract/document/10745882">From Dashboard Zoo to Census: A Case Study With Tableau Public</a> &nbsp;
+		 <a href="https://ieeexplore.ieee.org/abstract/document/10745882"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2024-TVCG-dashboard.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://arjun010.github.io/">Arjun Srinivasan</a>,
+			<a href="https://www.linkedin.com/in/joanna-purich">Joanna Purich</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://homes.cs.washington.edu/~leibatt/">Leilani Battle</a>,
+			<a href="https://www.linkedin.com/in/vidya-setlur-2740575">Vidya Setlur</a>,
+			<a href="https://amcrisan.github.io/">Anamaria Crisan</a>
+		</div>
+		<div class="conf">
+			TVCG, 2024
+		</div>
+	</div>
+
 <div class="thumb image"><div><a href="https://arxiv.org/abs/2409.07465"><img src="images/complexity.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
