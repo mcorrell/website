@@ -1,7 +1,24 @@
 <div class='results list'>
 
-<div class="thumb image"><div><a href="https://ieeexplore.ieee.org/abstract/document/10745882"><img src="images/census.png" alt="Paper teaser image" /></a></div>
-</div>
+	<div class="thumb image"><div><a href="https://arxiv.org/abs/2501.14903"><img src="images/octopus.png" alt="Paper teaser image" /></a></div>
+	</div>
+		<div class="ref">
+			<div class="title">
+				<a href="https://arxiv.org/abs/2501.14903">The Many Tendrils of the Octopus Map</a> &nbsp;
+			 <a href="https://arxiv.org/abs/2501.14903"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-CHI-dashboard.pdf' /></a>
+			</div>
+			<div class="authors">
+				<a href="https://epuer18.github.io/personalWebPage/">Eduardo Puerta</a>,
+				<a href="https://vis.khoury.northeastern.edu/people/Shani-Spivak/">Shani Spivak</a>,
+				<a href="http://correll.io">Michael Correll</a>
+			</div>
+			<div class="conf">
+				CHI, 2025
+			</div>
+		</div>
+
+	<div class="thumb image"><div><a href="https://ieeexplore.ieee.org/abstract/document/10745882"><img src="images/census.png" alt="Paper teaser image" /></a></div>
+	</div>
 	<div class="ref">
 		<div class="title">
 			<a href="https://ieeexplore.ieee.org/abstract/document/10745882">From Dashboard Zoo to Census: A Case Study With Tableau Public</a> &nbsp;
