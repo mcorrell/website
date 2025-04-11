@@ -13,7 +13,7 @@
 				<a href="http://correll.io">Michael Correll</a>
 			</div>
 			<div class="conf">
-				CHI, 2025
+				CHI 2025
 			</div>
 		</div>
 
@@ -33,7 +33,7 @@
 			<a href="https://amcrisan.github.io/">Anamaria Crisan</a>
 		</div>
 		<div class="conf">
-			TVCG, 2024
+			TVCG 2024
 		</div>
 	</div>
 
@@ -55,7 +55,7 @@
 			<a href="http://correll.io">Michael Correll</a>
 		</div>
 		<div class="conf">
-			BELIV, 2024
+			BELIV 2024
 		</div>
 	</div>
 
@@ -73,7 +73,7 @@
 			<a href="https://www.mjskay.com/">Matthew Kay</a>
 		</div>
 		<div class="conf">
-			BELIV, 2024
+			BELIV 2024
 		</div>
 	</div>
 
@@ -91,7 +91,7 @@
 			<a href="http://correll.io">Michael Correll</a>
 		</div>
 		<div class="conf">
-			Gen4DS, 2024
+			Gen4DS 2024
 		</div>
 	</div>
 
@@ -108,7 +108,7 @@
 			<a href="https://cspaul.com/">Paul Rosen</a>
 		</div>
 		<div class="conf">
-			IEEE VIS Poster, 2024
+			IEEE VIS Poster 2024
 		</div>
 	</div>
 
@@ -125,7 +125,7 @@
 			<a href="http://correll.io">Michael Correll</a>
 		</div>
 		<div class="conf">
-			IEEE VIS Short Papers, 2024
+			IEEE VIS Short Papers 2024
 		</div>
 	</div>
 
@@ -145,7 +145,7 @@
 			<a href="https://geoffreyrockwell.com/">Geoffrey Rockwell</a>
 		</div>
 		<div class="conf">
-			Digital Humanities, 2024
+			Digital Humanities 2024
 		</div>
 	</div>
 
@@ -265,7 +265,7 @@
 			<a href="https://www.linkedin.com/in/sarah-battersby-783a613">Sarah Battersby</a>
 		</div>
 		<div class="conf">
-			IEEE VIS Short Papers, 2022
+			IEEE VIS Short Papers 2022
 		</div>
 	</div>
 
@@ -283,7 +283,7 @@ using Visualization</a> &nbsp;
 			<a href="https://sites.umiacs.umd.edu/elm/">Niklas Elmqvist</a>
 		</div>
 		<div class="conf">
-			TVCG, 2022
+			TVCG 2022
 		</div>
 	</div>
 
@@ -320,7 +320,7 @@ using Visualization</a> &nbsp;
 			<a href="https://csm.rowan.edu/departments/psychology/facultystaff/psychology_full_part/tremoulet.html">Patrice D. Tremoulet</a>
 		</div>
 		<div class="conf">
-			Behavior Research Methods, 2021
+			Behavior Research Methods 2021
 		</div>
 	</div>
 
@@ -445,7 +445,7 @@ using Visualization</a> &nbsp;
 		<a href="http://www.wcas.northwestern.edu/psych/people/faculty/faculty_individual_pages/franconeri_.htm">Steven Franconeri</a>
 	</div>
 	<div class="conf">
-		IEEE VIS Short Papers, 2020
+		IEEE VIS Short Papers 2020
 	</div>
 </div>
 
@@ -460,7 +460,7 @@ using Visualization</a> &nbsp;
 		<a href="http://correll.io">Michael Correll</a>
 	</div>
 	<div class="conf">
-		BELIV 2020: Evaluation and Beyond &mdash; Methodological Approaches for Visualization
+		BELIV 2020
 	</div>
 </div>
 
@@ -682,7 +682,7 @@ using Visualization</a> &nbsp;
 		<a href="http://correll.io">Michael Correll</a>, <a href="http://homes.cs.washington.edu/~jheer/">Jeffrey Heer</a>
 	</div>
 	<div class="conf">
-		DECISIVe: Workshop on Dealing with Cognitive Biases in Visualisations, 2017
+		DECISIVe 2017
 	</div>
 </div>
 
@@ -780,7 +780,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		DECISIVe: Workshop on Dealing with Cognitive Biases in Visualisations, 2015
+		DECISIVe 2015
 	</div>
 </div>
 
@@ -823,7 +823,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		Bioinformatics, 2015
+		Bioinformatics 2015
 	</div>
 </div>
 
@@ -845,7 +845,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		DECISIVe : Workshop on Dealing with Cognitive Biases in Visualisations, 2014
+		DECISIVe 2014
 	</div>
 </div>
 
@@ -869,7 +869,7 @@ using Visualization</a> &nbsp;
 		<a href='http://www.wcas.northwestern.edu/psych/people/faculty/faculty_individual_pages/franconeri_.htm'>Steve Franconeri</a>
 	</div>
 	<div class='conf'>
-		Journal of Vision, 2014
+		Journal of Vision 2014
 	</div>
 </div>
 
@@ -891,7 +891,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		IEEE VIS, 2014
+		IEEE VIS 2014
 	</div>
 </div>
 
@@ -927,7 +927,7 @@ using Visualization</a> &nbsp;
 		David O'Connor
 	</div>
 	<div class='conf'>
-		PLoS ONE, 2014
+		PLoS ONE 2014
 	</div>
 </div>
 
@@ -951,7 +951,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		BELIV 2014: Beyond Time and Errors: Novel Evaluation Methods for Visualization
+		BELIV 2014
 	</div>
 </div>
 
@@ -997,7 +997,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		IEEE VIS Poster, 2013
+		IEEE VIS Poster 2013
 	</div>
 </div>
 
@@ -1098,7 +1098,7 @@ using Visualization</a> &nbsp;
 		David O'Connor
 	</div>
 	<div class='conf'>
-		Journal of Virology, 2012
+		Journal of Virology 2012
 	</div>
 </div>
 
@@ -1119,7 +1119,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		Workshop on Interactive Visual Text Analytics, 2012
+		Workshop on Interactive Visual Text Analytics 2012
 	</div>
 </div>
 
@@ -1143,7 +1143,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		EuroVis, 2011
+		EuroVis 2011
 	</div>
 </div>
 
@@ -1166,7 +1166,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		Symposium on Biological Data Visualization (BioVis), 2011
+		BioVis 2011
 	</div>
 </div>
 
@@ -1189,7 +1189,7 @@ using Visualization</a> &nbsp;
 		<a href='http://pages.cs.wisc.edu/~gleicher/'>Michael Gleicher</a>
 	</div>
 	<div class='conf'>
-		IEEE VIS Poster, 2010
+		IEEE VIS Poster 2010
 	</div>
 </div>
 
