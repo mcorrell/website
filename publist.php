@@ -17,6 +17,52 @@
 			</div>
 		</div>
 
+		<div class="thumb image"><div><a href="https://osf.io/preprints/osf/dfr4p_v2"><img src="images/octopus.png" alt="Paper teaser image" /></a></div>
+	</div>
+		<div class="ref">
+			<div class="title">
+				<a href="https://osf.io/preprints/osf/dfr4p_v2">An Autoethnography on Visualization Literacy: A Wicked Measurement Problem</a> &nbsp;
+			 <a href="https://osf.io/preprints/osf/dfr4p_v2"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-VIS-vislit.pdf' /></a>
+			</div>
+			<div class="authors">
+				<a href="https://lilyge.com/">Lily W. Ge</a>,
+				<a href="https://af.cabouat.xyz/">Anne-Flore Cabouat</a>,
+				Karen Bonilla,
+				<a href="https://digital-flaneur.github.io/">Yuan Cui</a>,
+				<a href="https://dyr429.github.io/">Yiren Ding</a>,
+				<a href="https://rakotondravony.com/">Noëlle Rakotondravony</a>,
+				<a href="https://www.khoury.northeastern.edu/people/mackenzie-creamer/">Mackenzie Michael Creamer</a>,
+				<a href="https://jazztap.github.io/">Jasmine Tan Otto</a>,
+				<a href="https://maryamhed.github.io/">Maryam Hedayati</a>,
+				<a href="https://www.bckwon.com/">Bum Chul Kwon</a>,
+				<a href="https://www.unibs.it/it/ugov/person/229457">Angela Locoro</a>,
+				<a href="https://web.cs.wpi.edu/~ltharrison/">Lane Harrison</a>,
+				<a href="https://petra.isenberg.cc/wiki/pmwiki.php">Petra Isenberg</a>,
+				<a href="http://correll.io">Michael Correll</a>,
+				<a href="https://www.mjskay.com/">Matthew Kay</a>
+			</div>
+			<div class="conf">
+				VIS 2025
+			</div>
+	</div>
+
+	<div class="thumb image"><div><a href="https://arxiv.org/abs/2501.14903"><img src="images/octopus.png" alt="Paper teaser image" /></a></div>
+	</div>
+		<div class="ref">
+			<div class="title">
+				<a href="https://arxiv.org/abs/2501.14903">The Many Tendrils of the Octopus Map</a> &nbsp;
+			 <a href="https://arxiv.org/abs/2501.14903"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-CHI-dashboard.pdf' /></a>
+			</div>
+			<div class="authors">
+				<a href="https://epuer18.github.io/personalWebPage/">Eduardo Puerta</a>,
+				<a href="https://vis.khoury.northeastern.edu/people/Shani-Spivak/">Shani Spivak</a>,
+				<a href="http://correll.io">Michael Correll</a>
+			</div>
+			<div class="conf">
+				CHI 2025
+			</div>
+		</div>
+
 	<div class="thumb image"><div><a href="https://ieeexplore.ieee.org/abstract/document/10745882"><img src="images/census.png" alt="Paper teaser image" /></a></div>
 	</div>
 	<div class="ref">
