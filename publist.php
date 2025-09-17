@@ -1,23 +1,22 @@
 <div class='results list'>
 
-	<div class="thumb image"><div><a href="https://arxiv.org/abs/2501.14903"><img src="images/octopus.png" alt="Paper teaser image" /></a></div>
+	<div class="thumb image"><div><a href="https://arxiv.org/abs/2509.08213"><img src="images/ekeziel.png" alt="Paper teaser image" /></a></div>
 	</div>
 		<div class="ref">
 			<div class="title">
-				<a href="https://arxiv.org/abs/2501.14903">The Many Tendrils of the Octopus Map</a> &nbsp;
-			 <a href="https://arxiv.org/abs/2501.14903"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-CHI-dashboard.pdf' /></a>
+				<a href="https://arxiv.org/abs/2509.08213">A Priest, a Rabbi, and an Atheist Walk Into an Error Bar: Religious Meditations on Uncertainty Visualization</a> &nbsp;
+			 <a href="https://arxiv.org/abs/2509.08213"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-altVIS-religion.pdf' /></a>
 			</div>
 			<div class="authors">
-				<a href="https://epuer18.github.io/personalWebPage/">Eduardo Puerta</a>,
-				<a href="https://vis.khoury.northeastern.edu/people/Shani-Spivak/">Shani Spivak</a>,
-				<a href="http://correll.io">Michael Correll</a>
+				<a href="http://correll.io">Michael Correll</a>,
+				<a href="https://web.cs.wpi.edu/~ltharrison/">Lane Harrison</a>
 			</div>
 			<div class="conf">
-				CHI 2025
+				alt.VIS 2025
 			</div>
 		</div>
 
-		<div class="thumb image"><div><a href="https://osf.io/preprints/osf/dfr4p_v2"><img src="images/octopus.png" alt="Paper teaser image" /></a></div>
+		<div class="thumb image"><div><a href="https://osf.io/preprints/osf/dfr4p_v2"><img src="images/suitcase.png" alt="Paper teaser image" /></a></div>
 	</div>
 		<div class="ref">
 			<div class="title">
