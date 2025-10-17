@@ -1,5 +1,23 @@
 <div class='results list'>
 
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2510.11927"><img src="images/steno.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/abs/2510.11927">Visual Stenography: Feature Recreation and Preservation in Sketches of Noisy Line Charts</a> &nbsp;
+			<a href="https://arxiv.org/abs/2510.11927"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-altVIS-religion.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://www.linkedin.com/in/rifataraproma">Rifat Ara Proma</a>,
+			<a href="http://jiquadcs.com/">Ghulam Jilani Quadri,</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://cspaul.com/">Paul Rosen</a>
+		</div>
+		<div class="conf">
+			TVCG 2025
+		</div>
+	</div>
+
 	<div class="thumb image"><div><a href="https://arxiv.org/abs/2509.08213"><img src="images/ekeziel.png" alt="Paper teaser image" /></a></div>
 	</div>
 		<div class="ref">
