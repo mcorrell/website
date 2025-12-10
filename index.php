@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta name="keywords" content="Michael Correll, visualization, portland, maine, northeastern, seattle, washingtion, madison, tableau, information visualization" />
+  <meta name="keywords" content="Michael Correll, visualization, seattle, washingtion, madison, tableau, northeastern, portland, data visualization, information visualization" />
   <title>Michael Correll</title>
   <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
