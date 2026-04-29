@@ -1,11 +1,28 @@
 <div class='results list'>
 
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2604.25818"><img src="images/mwo.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/abs/2604.25818">"The Worst Weather In America": Augmenting the Information Design of Extreme Cold Weather Forecasts</a> &nbsp;
+			<a href="https://arxiv.org/abs/2604.25818"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2026-eurovis-mwo.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="http://correll.io">Michael Correll</a>,
+			Jay Broccolo,
+			Drew Bush
+		</div>
+		<div class="conf">
+			EuroVis 2026 (Short)
+		</div>
+</div>
+
 <div class="thumb image"><div><a href="https://arxiv.org/abs/2510.11927"><img src="images/steno.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
 		<div class="title">
 			<a href="https://arxiv.org/abs/2510.11927">Visual Stenography: Feature Recreation and Preservation in Sketches of Noisy Line Charts</a> &nbsp;
-			<a href="https://arxiv.org/abs/2510.11927"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-altVIS-religion.pdf' /></a>
+			<a href="https://arxiv.org/abs/2510.11927"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2025-TVCG-steno.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://www.linkedin.com/in/rifataraproma">Rifat Ara Proma</a>,
