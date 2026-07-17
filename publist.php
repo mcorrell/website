@@ -16,11 +16,12 @@
 		</div>
 </div>
 
-<div class="thumb image"><div><a href=""><img src="images/xai.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2607.14152"><img src="images/xai.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
 		<div class="title">
-			<a href="">"Trust Junk" Leads to Unjustified Support for Highly Discriminatory Predictive Models</a> &nbsp;
+			<a href="https://arxiv.org/abs/2607.14152">"Trust Junk" Leads to Unjustified Support for Highly Discriminatory Predictive Models</a> &nbsp;
+			<a href="https://arxiv.org/abs/2607.14152"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2026-vis-xai.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="http://correll.io">Michael Correll</a>,
