@@ -1,5 +1,76 @@
 <div class='results list'>
 
+<div class="thumb image"><div><a href=""><img src="images/ethics-3.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="">Charting the Moral Universe: Capturing Virtues and Values of Data Visualization Practice</a> &nbsp;
+		</div>
+		<div class="authors">
+			<a href="https://chloeprock.com/">Chloe Hudson Prock</a>,
+			<a href="https://enrico.bertini.io/">Enrico Bertini</a>,
+			<a href="http://correll.io">Michael Correll</a>
+		</div>
+		<div class="conf">
+			IEEE VIS 2026 (to appear)
+		</div>
+</div>
+
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2607.14152"><img src="images/xai.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/abs/2607.14152">"Trust Junk" Leads to Unjustified Support for Highly Discriminatory Predictive Models</a> &nbsp;
+			<a href="https://arxiv.org/abs/2607.14152"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2026-vis-xai.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://lucyhavens.com/">Lucy Havens</a>,
+			<a href="https://mahsan.page/">Mahsan Nourani</a>
+		</div>
+		<div class="conf">
+			IEEE VIS Short Papers 2026 (to appear)
+		</div>
+</div>
+
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2607.07463"><img src="images/incentives.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="https://arxiv.org/abs/2607.07463">Should We Dangle a Carrot? The Effect of Performance-based Incentives in Visualization Experiments</a> &nbsp;
+			<a href="https://arxiv.org/abs/2607.07463"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2026-vis-incentives.pdf' /></a>
+		</div>
+		<div class="authors">
+			<a href="https://abhsarma.github.io/">Abhraneel Sarma</a>,
+			<a href="https://www.mjskay.com/">Matthew Kay</a>,
+			<a href="https://mika-long.github.io/">Sheng Long</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://alexsb.github.io/">Alexander Lex</a>
+		</div>
+		<div class="conf">
+			IEEE VIS 2026 (to appear)
+		</div>
+</div>
+
+<div class="thumb image"><div><a href=""><img src="images/mfv.png" alt="Paper teaser image" /></a></div>
+</div>
+	<div class="ref">
+		<div class="title">
+			<a href="">Seeing Through the Forecast Clutter: Communicating Forecast Distributions with Weighted Multiple Forecast Visualizations</a> &nbsp;
+		</div>
+		<div class="authors">
+			<a href="https://ruishizou.github.io/">Ruishi Zou</a>,
+			<a href="https://reynawu541.github.io/">Siyi Wu</a>,
+			<a href="https://www.racquelfygenson.com/">Racquel Fygenson</a>,
+			<a href="https://www.dakuowang.com/">Dakuo Wang</a>,
+			<a href="http://correll.io">Michael Correll</a>,
+			<a href="https://www.lacepadilla.com/">Lace Padilla</a>
+		</div>
+		<div class="conf">
+			IEEE VIS 2026 (to appear)
+		</div>
+</div>
+
 <div class="thumb image"><div><a href="https://arxiv.org/abs/2604.25818"><img src="images/mwo.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
