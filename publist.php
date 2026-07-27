@@ -1,10 +1,11 @@
 <div class='results list'>
 
-<div class="thumb image"><div><a href=""><img src="images/ethics-3.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2607.21732"><img src="images/ethics-3.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
 		<div class="title">
-			<a href="">Charting the Moral Universe: Capturing Virtues and Values of Data Visualization Practice</a> &nbsp;
+			<a href="https://arxiv.org/abs/2607.21732">Charting the Moral Universe: Capturing Virtues and Values of Data Visualization Practice</a> &nbsp;
+			<a href="https://arxiv.org/abs/2607.21732"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2026-vis-xai.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://chloeprock.com/">Chloe Hudson Prock</a>,
