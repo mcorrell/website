@@ -53,11 +53,12 @@
 		</div>
 </div>
 
-<div class="thumb image"><div><a href=""><img src="images/mfv.png" alt="Paper teaser image" /></a></div>
+<div class="thumb image"><div><a href="https://arxiv.org/abs/2608.00433"><img src="images/mfv.png" alt="Paper teaser image" /></a></div>
 </div>
 	<div class="ref">
 		<div class="title">
-			<a href="">Seeing Through the Forecast Clutter: Communicating Forecast Distributions with Weighted Multiple Forecast Visualizations</a> &nbsp;
+			<a href="https://arxiv.org/abs/2608.00433">Seeing Through the Forecast Clutter: Communicating Forecast Distributions with Weighted Multiple Forecast Visualizations</a> &nbsp;
+			<a href="https://arxiv.org/abs/2608.00433"><img class='doc' src='images/pdf.png' width='19' height='19' alt='2026-vis-mfv.pdf' /></a>
 		</div>
 		<div class="authors">
 			<a href="https://ruishizou.github.io/">Ruishi Zou</a>,
